@@ -1,0 +1,7389 @@
+{
+  "meta": {
+    "titel": "Professionelle Lichttechnik Farbdatenbank",
+    "version": "1.0",
+    "anzahl": 246
+  },
+  "farben": [
+    {
+      "id": 1,
+      "name": "Rot Vibrant",
+      "category": "Vollspektrum",
+      "hex": "#FF0000",
+      "rgb": {
+        "r": 255,
+        "g": 0,
+        "b": 0
+      },
+      "rgbw": {
+        "r": 255,
+        "g": 0,
+        "b": 0,
+        "w": 0
+      },
+      "hsl": {
+        "h": 0,
+        "s": 100,
+        "l": 50
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 100,
+        "y": 100,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": true
+    },
+    {
+      "id": 2,
+      "name": "Rot Pastell",
+      "category": "Pastell",
+      "hex": "#EAB8B8",
+      "rgb": {
+        "r": 234,
+        "g": 184,
+        "b": 184
+      },
+      "rgbw": {
+        "r": 50,
+        "g": 0,
+        "b": 0,
+        "w": 184
+      },
+      "hsl": {
+        "h": 0,
+        "s": 54,
+        "l": 82
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 21,
+        "y": 21,
+        "k": 8
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 3,
+      "name": "Rot Dunkel",
+      "category": "Vollspektrum",
+      "hex": "#8F0000",
+      "rgb": {
+        "r": 143,
+        "g": 0,
+        "b": 0
+      },
+      "rgbw": {
+        "r": 143,
+        "g": 0,
+        "b": 0,
+        "w": 0
+      },
+      "hsl": {
+        "h": 0,
+        "s": 100,
+        "l": 28
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 100,
+        "y": 100,
+        "k": 44
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 4,
+      "name": "Rot Sanft",
+      "category": "Pastell",
+      "hex": "#C57777",
+      "rgb": {
+        "r": 197,
+        "g": 119,
+        "b": 119
+      },
+      "rgbw": {
+        "r": 78,
+        "g": 0,
+        "b": 0,
+        "w": 119
+      },
+      "hsl": {
+        "h": 0,
+        "s": 40,
+        "l": 62
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 40,
+        "y": 40,
+        "k": 23
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 5,
+      "name": "Rot-Orange Vibrant",
+      "category": "Vollspektrum",
+      "hex": "#FF2A00",
+      "rgb": {
+        "r": 255,
+        "g": 42,
+        "b": 0
+      },
+      "rgbw": {
+        "r": 255,
+        "g": 42,
+        "b": 0,
+        "w": 0
+      },
+      "hsl": {
+        "h": 10,
+        "s": 100,
+        "l": 50
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 84,
+        "y": 100,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 6,
+      "name": "Rot-Orange Pastell",
+      "category": "Pastell",
+      "hex": "#EAC0B8",
+      "rgb": {
+        "r": 234,
+        "g": 192,
+        "b": 184
+      },
+      "rgbw": {
+        "r": 50,
+        "g": 8,
+        "b": 0,
+        "w": 184
+      },
+      "hsl": {
+        "h": 10,
+        "s": 54,
+        "l": 82
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 18,
+        "y": 21,
+        "k": 8
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 7,
+      "name": "Rot-Orange Dunkel",
+      "category": "Vollspektrum",
+      "hex": "#8F1800",
+      "rgb": {
+        "r": 143,
+        "g": 24,
+        "b": 0
+      },
+      "rgbw": {
+        "r": 143,
+        "g": 24,
+        "b": 0,
+        "w": 0
+      },
+      "hsl": {
+        "h": 10,
+        "s": 100,
+        "l": 28
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 83,
+        "y": 100,
+        "k": 44
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 8,
+      "name": "Rot-Orange Sanft",
+      "category": "Pastell",
+      "hex": "#C58477",
+      "rgb": {
+        "r": 197,
+        "g": 132,
+        "b": 119
+      },
+      "rgbw": {
+        "r": 78,
+        "g": 13,
+        "b": 0,
+        "w": 119
+      },
+      "hsl": {
+        "h": 10,
+        "s": 40,
+        "l": 62
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 33,
+        "y": 40,
+        "k": 23
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 9,
+      "name": "Blutorange Vibrant",
+      "category": "Vollspektrum",
+      "hex": "#FF5500",
+      "rgb": {
+        "r": 255,
+        "g": 85,
+        "b": 0
+      },
+      "rgbw": {
+        "r": 255,
+        "g": 85,
+        "b": 0,
+        "w": 0
+      },
+      "hsl": {
+        "h": 20,
+        "s": 100,
+        "l": 50
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 67,
+        "y": 100,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 10,
+      "name": "Blutorange Pastell",
+      "category": "Pastell",
+      "hex": "#EAC9B8",
+      "rgb": {
+        "r": 234,
+        "g": 201,
+        "b": 184
+      },
+      "rgbw": {
+        "r": 50,
+        "g": 17,
+        "b": 0,
+        "w": 184
+      },
+      "hsl": {
+        "h": 20,
+        "s": 54,
+        "l": 82
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 14,
+        "y": 21,
+        "k": 8
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 11,
+      "name": "Blutorange Dunkel",
+      "category": "Vollspektrum",
+      "hex": "#8F3000",
+      "rgb": {
+        "r": 143,
+        "g": 48,
+        "b": 0
+      },
+      "rgbw": {
+        "r": 143,
+        "g": 48,
+        "b": 0,
+        "w": 0
+      },
+      "hsl": {
+        "h": 20,
+        "s": 100,
+        "l": 28
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 66,
+        "y": 100,
+        "k": 44
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 12,
+      "name": "Blutorange Sanft",
+      "category": "Pastell",
+      "hex": "#C59177",
+      "rgb": {
+        "r": 197,
+        "g": 145,
+        "b": 119
+      },
+      "rgbw": {
+        "r": 78,
+        "g": 26,
+        "b": 0,
+        "w": 119
+      },
+      "hsl": {
+        "h": 20,
+        "s": 40,
+        "l": 62
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 26,
+        "y": 40,
+        "k": 23
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 13,
+      "name": "Orange Vibrant",
+      "category": "Vollspektrum",
+      "hex": "#FF8000",
+      "rgb": {
+        "r": 255,
+        "g": 128,
+        "b": 0
+      },
+      "rgbw": {
+        "r": 255,
+        "g": 128,
+        "b": 0,
+        "w": 0
+      },
+      "hsl": {
+        "h": 30,
+        "s": 100,
+        "l": 50
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 50,
+        "y": 100,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": true
+    },
+    {
+      "id": 14,
+      "name": "Orange Pastell",
+      "category": "Pastell",
+      "hex": "#EAD1B8",
+      "rgb": {
+        "r": 234,
+        "g": 209,
+        "b": 184
+      },
+      "rgbw": {
+        "r": 50,
+        "g": 25,
+        "b": 0,
+        "w": 184
+      },
+      "hsl": {
+        "h": 30,
+        "s": 54,
+        "l": 82
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 11,
+        "y": 21,
+        "k": 8
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 15,
+      "name": "Orange Dunkel",
+      "category": "Vollspektrum",
+      "hex": "#8F4700",
+      "rgb": {
+        "r": 143,
+        "g": 71,
+        "b": 0
+      },
+      "rgbw": {
+        "r": 143,
+        "g": 71,
+        "b": 0,
+        "w": 0
+      },
+      "hsl": {
+        "h": 30,
+        "s": 100,
+        "l": 28
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 50,
+        "y": 100,
+        "k": 44
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 16,
+      "name": "Orange Sanft",
+      "category": "Pastell",
+      "hex": "#C59E77",
+      "rgb": {
+        "r": 197,
+        "g": 158,
+        "b": 119
+      },
+      "rgbw": {
+        "r": 78,
+        "g": 39,
+        "b": 0,
+        "w": 119
+      },
+      "hsl": {
+        "h": 30,
+        "s": 40,
+        "l": 62
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 20,
+        "y": 40,
+        "k": 23
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 17,
+      "name": "Bernstein Vibrant",
+      "category": "Vollspektrum",
+      "hex": "#FFAA00",
+      "rgb": {
+        "r": 255,
+        "g": 170,
+        "b": 0
+      },
+      "rgbw": {
+        "r": 255,
+        "g": 170,
+        "b": 0,
+        "w": 0
+      },
+      "hsl": {
+        "h": 40,
+        "s": 100,
+        "l": 50
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 33,
+        "y": 100,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 18,
+      "name": "Bernstein Pastell",
+      "category": "Pastell",
+      "hex": "#EADAB8",
+      "rgb": {
+        "r": 234,
+        "g": 218,
+        "b": 184
+      },
+      "rgbw": {
+        "r": 50,
+        "g": 34,
+        "b": 0,
+        "w": 184
+      },
+      "hsl": {
+        "h": 41,
+        "s": 54,
+        "l": 82
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 7,
+        "y": 21,
+        "k": 8
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 19,
+      "name": "Bernstein Dunkel",
+      "category": "Vollspektrum",
+      "hex": "#8F5F00",
+      "rgb": {
+        "r": 143,
+        "g": 95,
+        "b": 0
+      },
+      "rgbw": {
+        "r": 143,
+        "g": 95,
+        "b": 0,
+        "w": 0
+      },
+      "hsl": {
+        "h": 40,
+        "s": 100,
+        "l": 28
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 34,
+        "y": 100,
+        "k": 44
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 20,
+      "name": "Bernstein Sanft",
+      "category": "Pastell",
+      "hex": "#C5AB77",
+      "rgb": {
+        "r": 197,
+        "g": 171,
+        "b": 119
+      },
+      "rgbw": {
+        "r": 78,
+        "g": 52,
+        "b": 0,
+        "w": 119
+      },
+      "hsl": {
+        "h": 40,
+        "s": 40,
+        "l": 62
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 13,
+        "y": 40,
+        "k": 23
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 21,
+      "name": "Amber Vibrant",
+      "category": "Vollspektrum",
+      "hex": "#FFD400",
+      "rgb": {
+        "r": 255,
+        "g": 212,
+        "b": 0
+      },
+      "rgbw": {
+        "r": 255,
+        "g": 212,
+        "b": 0,
+        "w": 0
+      },
+      "hsl": {
+        "h": 50,
+        "s": 100,
+        "l": 50
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 17,
+        "y": 100,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": true
+    },
+    {
+      "id": 22,
+      "name": "Amber Pastell",
+      "category": "Pastell",
+      "hex": "#EAE2B8",
+      "rgb": {
+        "r": 234,
+        "g": 226,
+        "b": 184
+      },
+      "rgbw": {
+        "r": 50,
+        "g": 42,
+        "b": 0,
+        "w": 184
+      },
+      "hsl": {
+        "h": 50,
+        "s": 54,
+        "l": 82
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 3,
+        "y": 21,
+        "k": 8
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 23,
+      "name": "Amber Dunkel",
+      "category": "Vollspektrum",
+      "hex": "#8F7700",
+      "rgb": {
+        "r": 143,
+        "g": 119,
+        "b": 0
+      },
+      "rgbw": {
+        "r": 143,
+        "g": 119,
+        "b": 0,
+        "w": 0
+      },
+      "hsl": {
+        "h": 50,
+        "s": 100,
+        "l": 28
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 17,
+        "y": 100,
+        "k": 44
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 24,
+      "name": "Amber Sanft",
+      "category": "Pastell",
+      "hex": "#C5B877",
+      "rgb": {
+        "r": 197,
+        "g": 184,
+        "b": 119
+      },
+      "rgbw": {
+        "r": 78,
+        "g": 65,
+        "b": 0,
+        "w": 119
+      },
+      "hsl": {
+        "h": 50,
+        "s": 40,
+        "l": 62
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 7,
+        "y": 40,
+        "k": 23
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 25,
+      "name": "Gold Vibrant",
+      "category": "Vollspektrum",
+      "hex": "#FFFF00",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 0
+      },
+      "rgbw": {
+        "r": 255,
+        "g": 255,
+        "b": 0,
+        "w": 0
+      },
+      "hsl": {
+        "h": 60,
+        "s": 100,
+        "l": 50
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 0,
+        "y": 100,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 26,
+      "name": "Gold Pastell",
+      "category": "Pastell",
+      "hex": "#EAEAB8",
+      "rgb": {
+        "r": 234,
+        "g": 234,
+        "b": 184
+      },
+      "rgbw": {
+        "r": 50,
+        "g": 50,
+        "b": 0,
+        "w": 184
+      },
+      "hsl": {
+        "h": 60,
+        "s": 54,
+        "l": 82
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 0,
+        "y": 21,
+        "k": 8
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 27,
+      "name": "Gold Dunkel",
+      "category": "Vollspektrum",
+      "hex": "#8F8F00",
+      "rgb": {
+        "r": 143,
+        "g": 143,
+        "b": 0
+      },
+      "rgbw": {
+        "r": 143,
+        "g": 143,
+        "b": 0,
+        "w": 0
+      },
+      "hsl": {
+        "h": 60,
+        "s": 100,
+        "l": 28
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 0,
+        "y": 100,
+        "k": 44
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 28,
+      "name": "Gold Sanft",
+      "category": "Pastell",
+      "hex": "#C5C577",
+      "rgb": {
+        "r": 197,
+        "g": 197,
+        "b": 119
+      },
+      "rgbw": {
+        "r": 78,
+        "g": 78,
+        "b": 0,
+        "w": 119
+      },
+      "hsl": {
+        "h": 60,
+        "s": 40,
+        "l": 62
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 0,
+        "y": 40,
+        "k": 23
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 29,
+      "name": "Gelb-Orange Vibrant",
+      "category": "Vollspektrum",
+      "hex": "#D4FF00",
+      "rgb": {
+        "r": 212,
+        "g": 255,
+        "b": 0
+      },
+      "rgbw": {
+        "r": 212,
+        "g": 255,
+        "b": 0,
+        "w": 0
+      },
+      "hsl": {
+        "h": 70,
+        "s": 100,
+        "l": 50
+      },
+      "cmyk": {
+        "c": 17,
+        "m": 0,
+        "y": 100,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 30,
+      "name": "Gelb-Orange Pastell",
+      "category": "Pastell",
+      "hex": "#E2EAB8",
+      "rgb": {
+        "r": 226,
+        "g": 234,
+        "b": 184
+      },
+      "rgbw": {
+        "r": 42,
+        "g": 50,
+        "b": 0,
+        "w": 184
+      },
+      "hsl": {
+        "h": 70,
+        "s": 54,
+        "l": 82
+      },
+      "cmyk": {
+        "c": 3,
+        "m": 0,
+        "y": 21,
+        "k": 8
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 31,
+      "name": "Gelb-Orange Dunkel",
+      "category": "Vollspektrum",
+      "hex": "#778F00",
+      "rgb": {
+        "r": 119,
+        "g": 143,
+        "b": 0
+      },
+      "rgbw": {
+        "r": 119,
+        "g": 143,
+        "b": 0,
+        "w": 0
+      },
+      "hsl": {
+        "h": 70,
+        "s": 100,
+        "l": 28
+      },
+      "cmyk": {
+        "c": 17,
+        "m": 0,
+        "y": 100,
+        "k": 44
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 32,
+      "name": "Gelb-Orange Sanft",
+      "category": "Pastell",
+      "hex": "#B8C577",
+      "rgb": {
+        "r": 184,
+        "g": 197,
+        "b": 119
+      },
+      "rgbw": {
+        "r": 65,
+        "g": 78,
+        "b": 0,
+        "w": 119
+      },
+      "hsl": {
+        "h": 70,
+        "s": 40,
+        "l": 62
+      },
+      "cmyk": {
+        "c": 7,
+        "m": 0,
+        "y": 40,
+        "k": 23
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 33,
+      "name": "Gelb Vibrant",
+      "category": "Vollspektrum",
+      "hex": "#AAFF00",
+      "rgb": {
+        "r": 170,
+        "g": 255,
+        "b": 0
+      },
+      "rgbw": {
+        "r": 170,
+        "g": 255,
+        "b": 0,
+        "w": 0
+      },
+      "hsl": {
+        "h": 80,
+        "s": 100,
+        "l": 50
+      },
+      "cmyk": {
+        "c": 33,
+        "m": 0,
+        "y": 100,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": true
+    },
+    {
+      "id": 34,
+      "name": "Gelb Pastell",
+      "category": "Pastell",
+      "hex": "#DAEAB8",
+      "rgb": {
+        "r": 218,
+        "g": 234,
+        "b": 184
+      },
+      "rgbw": {
+        "r": 34,
+        "g": 50,
+        "b": 0,
+        "w": 184
+      },
+      "hsl": {
+        "h": 79,
+        "s": 54,
+        "l": 82
+      },
+      "cmyk": {
+        "c": 7,
+        "m": 0,
+        "y": 21,
+        "k": 8
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 35,
+      "name": "Gelb Dunkel",
+      "category": "Vollspektrum",
+      "hex": "#5F8F00",
+      "rgb": {
+        "r": 95,
+        "g": 143,
+        "b": 0
+      },
+      "rgbw": {
+        "r": 95,
+        "g": 143,
+        "b": 0,
+        "w": 0
+      },
+      "hsl": {
+        "h": 80,
+        "s": 100,
+        "l": 28
+      },
+      "cmyk": {
+        "c": 34,
+        "m": 0,
+        "y": 100,
+        "k": 44
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 36,
+      "name": "Gelb Sanft",
+      "category": "Pastell",
+      "hex": "#ABC577",
+      "rgb": {
+        "r": 171,
+        "g": 197,
+        "b": 119
+      },
+      "rgbw": {
+        "r": 52,
+        "g": 78,
+        "b": 0,
+        "w": 119
+      },
+      "hsl": {
+        "h": 80,
+        "s": 40,
+        "l": 62
+      },
+      "cmyk": {
+        "c": 13,
+        "m": 0,
+        "y": 40,
+        "k": 23
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 37,
+      "name": "Zitrone Vibrant",
+      "category": "Vollspektrum",
+      "hex": "#80FF00",
+      "rgb": {
+        "r": 128,
+        "g": 255,
+        "b": 0
+      },
+      "rgbw": {
+        "r": 128,
+        "g": 255,
+        "b": 0,
+        "w": 0
+      },
+      "hsl": {
+        "h": 90,
+        "s": 100,
+        "l": 50
+      },
+      "cmyk": {
+        "c": 50,
+        "m": 0,
+        "y": 100,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 38,
+      "name": "Zitrone Pastell",
+      "category": "Pastell",
+      "hex": "#D1EAB8",
+      "rgb": {
+        "r": 209,
+        "g": 234,
+        "b": 184
+      },
+      "rgbw": {
+        "r": 25,
+        "g": 50,
+        "b": 0,
+        "w": 184
+      },
+      "hsl": {
+        "h": 90,
+        "s": 54,
+        "l": 82
+      },
+      "cmyk": {
+        "c": 11,
+        "m": 0,
+        "y": 21,
+        "k": 8
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 39,
+      "name": "Zitrone Dunkel",
+      "category": "Vollspektrum",
+      "hex": "#478F00",
+      "rgb": {
+        "r": 71,
+        "g": 143,
+        "b": 0
+      },
+      "rgbw": {
+        "r": 71,
+        "g": 143,
+        "b": 0,
+        "w": 0
+      },
+      "hsl": {
+        "h": 90,
+        "s": 100,
+        "l": 28
+      },
+      "cmyk": {
+        "c": 50,
+        "m": 0,
+        "y": 100,
+        "k": 44
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 40,
+      "name": "Zitrone Sanft",
+      "category": "Pastell",
+      "hex": "#9EC577",
+      "rgb": {
+        "r": 158,
+        "g": 197,
+        "b": 119
+      },
+      "rgbw": {
+        "r": 39,
+        "g": 78,
+        "b": 0,
+        "w": 119
+      },
+      "hsl": {
+        "h": 90,
+        "s": 40,
+        "l": 62
+      },
+      "cmyk": {
+        "c": 20,
+        "m": 0,
+        "y": 40,
+        "k": 23
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 41,
+      "name": "Gelb-Grün Vibrant",
+      "category": "Vollspektrum",
+      "hex": "#55FF00",
+      "rgb": {
+        "r": 85,
+        "g": 255,
+        "b": 0
+      },
+      "rgbw": {
+        "r": 85,
+        "g": 255,
+        "b": 0,
+        "w": 0
+      },
+      "hsl": {
+        "h": 100,
+        "s": 100,
+        "l": 50
+      },
+      "cmyk": {
+        "c": 67,
+        "m": 0,
+        "y": 100,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 42,
+      "name": "Gelb-Grün Pastell",
+      "category": "Pastell",
+      "hex": "#C9EAB8",
+      "rgb": {
+        "r": 201,
+        "g": 234,
+        "b": 184
+      },
+      "rgbw": {
+        "r": 17,
+        "g": 50,
+        "b": 0,
+        "w": 184
+      },
+      "hsl": {
+        "h": 100,
+        "s": 54,
+        "l": 82
+      },
+      "cmyk": {
+        "c": 14,
+        "m": 0,
+        "y": 21,
+        "k": 8
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 43,
+      "name": "Gelb-Grün Dunkel",
+      "category": "Vollspektrum",
+      "hex": "#308F00",
+      "rgb": {
+        "r": 48,
+        "g": 143,
+        "b": 0
+      },
+      "rgbw": {
+        "r": 48,
+        "g": 143,
+        "b": 0,
+        "w": 0
+      },
+      "hsl": {
+        "h": 100,
+        "s": 100,
+        "l": 28
+      },
+      "cmyk": {
+        "c": 66,
+        "m": 0,
+        "y": 100,
+        "k": 44
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 44,
+      "name": "Gelb-Grün Sanft",
+      "category": "Pastell",
+      "hex": "#91C577",
+      "rgb": {
+        "r": 145,
+        "g": 197,
+        "b": 119
+      },
+      "rgbw": {
+        "r": 26,
+        "g": 78,
+        "b": 0,
+        "w": 119
+      },
+      "hsl": {
+        "h": 100,
+        "s": 40,
+        "l": 62
+      },
+      "cmyk": {
+        "c": 26,
+        "m": 0,
+        "y": 40,
+        "k": 23
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 45,
+      "name": "Chartreuse Vibrant",
+      "category": "Vollspektrum",
+      "hex": "#2BFF00",
+      "rgb": {
+        "r": 43,
+        "g": 255,
+        "b": 0
+      },
+      "rgbw": {
+        "r": 43,
+        "g": 255,
+        "b": 0,
+        "w": 0
+      },
+      "hsl": {
+        "h": 110,
+        "s": 100,
+        "l": 50
+      },
+      "cmyk": {
+        "c": 83,
+        "m": 0,
+        "y": 100,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 46,
+      "name": "Chartreuse Pastell",
+      "category": "Pastell",
+      "hex": "#C0EAB8",
+      "rgb": {
+        "r": 192,
+        "g": 234,
+        "b": 184
+      },
+      "rgbw": {
+        "r": 8,
+        "g": 50,
+        "b": 0,
+        "w": 184
+      },
+      "hsl": {
+        "h": 110,
+        "s": 54,
+        "l": 82
+      },
+      "cmyk": {
+        "c": 18,
+        "m": 0,
+        "y": 21,
+        "k": 8
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 47,
+      "name": "Chartreuse Dunkel",
+      "category": "Vollspektrum",
+      "hex": "#188F00",
+      "rgb": {
+        "r": 24,
+        "g": 143,
+        "b": 0
+      },
+      "rgbw": {
+        "r": 24,
+        "g": 143,
+        "b": 0,
+        "w": 0
+      },
+      "hsl": {
+        "h": 110,
+        "s": 100,
+        "l": 28
+      },
+      "cmyk": {
+        "c": 83,
+        "m": 0,
+        "y": 100,
+        "k": 44
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 48,
+      "name": "Chartreuse Sanft",
+      "category": "Pastell",
+      "hex": "#84C577",
+      "rgb": {
+        "r": 132,
+        "g": 197,
+        "b": 119
+      },
+      "rgbw": {
+        "r": 13,
+        "g": 78,
+        "b": 0,
+        "w": 119
+      },
+      "hsl": {
+        "h": 110,
+        "s": 40,
+        "l": 62
+      },
+      "cmyk": {
+        "c": 33,
+        "m": 0,
+        "y": 40,
+        "k": 23
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 49,
+      "name": "Frühlingsgrün Vibrant",
+      "category": "Vollspektrum",
+      "hex": "#00FF00",
+      "rgb": {
+        "r": 0,
+        "g": 255,
+        "b": 0
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 255,
+        "b": 0,
+        "w": 0
+      },
+      "hsl": {
+        "h": 120,
+        "s": 100,
+        "l": 50
+      },
+      "cmyk": {
+        "c": 100,
+        "m": 0,
+        "y": 100,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 50,
+      "name": "Frühlingsgrün Pastell",
+      "category": "Pastell",
+      "hex": "#B8EAB8",
+      "rgb": {
+        "r": 184,
+        "g": 234,
+        "b": 184
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 50,
+        "b": 0,
+        "w": 184
+      },
+      "hsl": {
+        "h": 120,
+        "s": 54,
+        "l": 82
+      },
+      "cmyk": {
+        "c": 21,
+        "m": 0,
+        "y": 21,
+        "k": 8
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 51,
+      "name": "Frühlingsgrün Dunkel",
+      "category": "Vollspektrum",
+      "hex": "#008F00",
+      "rgb": {
+        "r": 0,
+        "g": 143,
+        "b": 0
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 143,
+        "b": 0,
+        "w": 0
+      },
+      "hsl": {
+        "h": 120,
+        "s": 100,
+        "l": 28
+      },
+      "cmyk": {
+        "c": 100,
+        "m": 0,
+        "y": 100,
+        "k": 44
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 52,
+      "name": "Frühlingsgrün Sanft",
+      "category": "Pastell",
+      "hex": "#77C577",
+      "rgb": {
+        "r": 119,
+        "g": 197,
+        "b": 119
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 78,
+        "b": 0,
+        "w": 119
+      },
+      "hsl": {
+        "h": 120,
+        "s": 40,
+        "l": 62
+      },
+      "cmyk": {
+        "c": 40,
+        "m": 0,
+        "y": 40,
+        "k": 23
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 53,
+      "name": "Grün Vibrant",
+      "category": "Vollspektrum",
+      "hex": "#00FF2B",
+      "rgb": {
+        "r": 0,
+        "g": 255,
+        "b": 43
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 255,
+        "b": 43,
+        "w": 0
+      },
+      "hsl": {
+        "h": 130,
+        "s": 100,
+        "l": 50
+      },
+      "cmyk": {
+        "c": 100,
+        "m": 0,
+        "y": 83,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": true
+    },
+    {
+      "id": 54,
+      "name": "Grün Pastell",
+      "category": "Pastell",
+      "hex": "#B8EAC0",
+      "rgb": {
+        "r": 184,
+        "g": 234,
+        "b": 192
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 50,
+        "b": 8,
+        "w": 184
+      },
+      "hsl": {
+        "h": 130,
+        "s": 54,
+        "l": 82
+      },
+      "cmyk": {
+        "c": 21,
+        "m": 0,
+        "y": 18,
+        "k": 8
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 55,
+      "name": "Grün Dunkel",
+      "category": "Vollspektrum",
+      "hex": "#008F18",
+      "rgb": {
+        "r": 0,
+        "g": 143,
+        "b": 24
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 143,
+        "b": 24,
+        "w": 0
+      },
+      "hsl": {
+        "h": 130,
+        "s": 100,
+        "l": 28
+      },
+      "cmyk": {
+        "c": 100,
+        "m": 0,
+        "y": 83,
+        "k": 44
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 56,
+      "name": "Grün Sanft",
+      "category": "Pastell",
+      "hex": "#77C584",
+      "rgb": {
+        "r": 119,
+        "g": 197,
+        "b": 132
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 78,
+        "b": 13,
+        "w": 119
+      },
+      "hsl": {
+        "h": 130,
+        "s": 40,
+        "l": 62
+      },
+      "cmyk": {
+        "c": 40,
+        "m": 0,
+        "y": 33,
+        "k": 23
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 57,
+      "name": "Smaragd Vibrant",
+      "category": "Vollspektrum",
+      "hex": "#00FF55",
+      "rgb": {
+        "r": 0,
+        "g": 255,
+        "b": 85
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 255,
+        "b": 85,
+        "w": 0
+      },
+      "hsl": {
+        "h": 140,
+        "s": 100,
+        "l": 50
+      },
+      "cmyk": {
+        "c": 100,
+        "m": 0,
+        "y": 67,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": true
+    },
+    {
+      "id": 58,
+      "name": "Smaragd Pastell",
+      "category": "Pastell",
+      "hex": "#B8EAC9",
+      "rgb": {
+        "r": 184,
+        "g": 234,
+        "b": 201
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 50,
+        "b": 17,
+        "w": 184
+      },
+      "hsl": {
+        "h": 140,
+        "s": 54,
+        "l": 82
+      },
+      "cmyk": {
+        "c": 21,
+        "m": 0,
+        "y": 14,
+        "k": 8
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 59,
+      "name": "Smaragd Dunkel",
+      "category": "Vollspektrum",
+      "hex": "#008F30",
+      "rgb": {
+        "r": 0,
+        "g": 143,
+        "b": 48
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 143,
+        "b": 48,
+        "w": 0
+      },
+      "hsl": {
+        "h": 140,
+        "s": 100,
+        "l": 28
+      },
+      "cmyk": {
+        "c": 100,
+        "m": 0,
+        "y": 66,
+        "k": 44
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 60,
+      "name": "Smaragd Sanft",
+      "category": "Pastell",
+      "hex": "#77C591",
+      "rgb": {
+        "r": 119,
+        "g": 197,
+        "b": 145
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 78,
+        "b": 26,
+        "w": 119
+      },
+      "hsl": {
+        "h": 140,
+        "s": 40,
+        "l": 62
+      },
+      "cmyk": {
+        "c": 40,
+        "m": 0,
+        "y": 26,
+        "k": 23
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 61,
+      "name": "Minzgrün Vibrant",
+      "category": "Vollspektrum",
+      "hex": "#00FF80",
+      "rgb": {
+        "r": 0,
+        "g": 255,
+        "b": 128
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 255,
+        "b": 128,
+        "w": 0
+      },
+      "hsl": {
+        "h": 150,
+        "s": 100,
+        "l": 50
+      },
+      "cmyk": {
+        "c": 100,
+        "m": 0,
+        "y": 50,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 62,
+      "name": "Minzgrün Pastell",
+      "category": "Pastell",
+      "hex": "#B8EAD1",
+      "rgb": {
+        "r": 184,
+        "g": 234,
+        "b": 209
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 50,
+        "b": 25,
+        "w": 184
+      },
+      "hsl": {
+        "h": 150,
+        "s": 54,
+        "l": 82
+      },
+      "cmyk": {
+        "c": 21,
+        "m": 0,
+        "y": 11,
+        "k": 8
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 63,
+      "name": "Minzgrün Dunkel",
+      "category": "Vollspektrum",
+      "hex": "#008F47",
+      "rgb": {
+        "r": 0,
+        "g": 143,
+        "b": 71
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 143,
+        "b": 71,
+        "w": 0
+      },
+      "hsl": {
+        "h": 150,
+        "s": 100,
+        "l": 28
+      },
+      "cmyk": {
+        "c": 100,
+        "m": 0,
+        "y": 50,
+        "k": 44
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 64,
+      "name": "Minzgrün Sanft",
+      "category": "Pastell",
+      "hex": "#77C59E",
+      "rgb": {
+        "r": 119,
+        "g": 197,
+        "b": 158
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 78,
+        "b": 39,
+        "w": 119
+      },
+      "hsl": {
+        "h": 150,
+        "s": 40,
+        "l": 62
+      },
+      "cmyk": {
+        "c": 40,
+        "m": 0,
+        "y": 20,
+        "k": 23
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 65,
+      "name": "Türkisgrün Vibrant",
+      "category": "Vollspektrum",
+      "hex": "#00FFAA",
+      "rgb": {
+        "r": 0,
+        "g": 255,
+        "b": 170
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 255,
+        "b": 170,
+        "w": 0
+      },
+      "hsl": {
+        "h": 160,
+        "s": 100,
+        "l": 50
+      },
+      "cmyk": {
+        "c": 100,
+        "m": 0,
+        "y": 33,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 66,
+      "name": "Türkisgrün Pastell",
+      "category": "Pastell",
+      "hex": "#B8EADA",
+      "rgb": {
+        "r": 184,
+        "g": 234,
+        "b": 218
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 50,
+        "b": 34,
+        "w": 184
+      },
+      "hsl": {
+        "h": 161,
+        "s": 54,
+        "l": 82
+      },
+      "cmyk": {
+        "c": 21,
+        "m": 0,
+        "y": 7,
+        "k": 8
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 67,
+      "name": "Türkisgrün Dunkel",
+      "category": "Vollspektrum",
+      "hex": "#008F5F",
+      "rgb": {
+        "r": 0,
+        "g": 143,
+        "b": 95
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 143,
+        "b": 95,
+        "w": 0
+      },
+      "hsl": {
+        "h": 160,
+        "s": 100,
+        "l": 28
+      },
+      "cmyk": {
+        "c": 100,
+        "m": 0,
+        "y": 34,
+        "k": 44
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 68,
+      "name": "Türkisgrün Sanft",
+      "category": "Pastell",
+      "hex": "#77C5AB",
+      "rgb": {
+        "r": 119,
+        "g": 197,
+        "b": 171
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 78,
+        "b": 52,
+        "w": 119
+      },
+      "hsl": {
+        "h": 160,
+        "s": 40,
+        "l": 62
+      },
+      "cmyk": {
+        "c": 40,
+        "m": 0,
+        "y": 13,
+        "k": 23
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 69,
+      "name": "Türkis Vibrant",
+      "category": "Vollspektrum",
+      "hex": "#00FFD4",
+      "rgb": {
+        "r": 0,
+        "g": 255,
+        "b": 212
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 255,
+        "b": 212,
+        "w": 0
+      },
+      "hsl": {
+        "h": 170,
+        "s": 100,
+        "l": 50
+      },
+      "cmyk": {
+        "c": 100,
+        "m": 0,
+        "y": 17,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": true
+    },
+    {
+      "id": 70,
+      "name": "Türkis Pastell",
+      "category": "Pastell",
+      "hex": "#B8EAE2",
+      "rgb": {
+        "r": 184,
+        "g": 234,
+        "b": 226
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 50,
+        "b": 42,
+        "w": 184
+      },
+      "hsl": {
+        "h": 170,
+        "s": 54,
+        "l": 82
+      },
+      "cmyk": {
+        "c": 21,
+        "m": 0,
+        "y": 3,
+        "k": 8
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 71,
+      "name": "Türkis Dunkel",
+      "category": "Vollspektrum",
+      "hex": "#008F77",
+      "rgb": {
+        "r": 0,
+        "g": 143,
+        "b": 119
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 143,
+        "b": 119,
+        "w": 0
+      },
+      "hsl": {
+        "h": 170,
+        "s": 100,
+        "l": 28
+      },
+      "cmyk": {
+        "c": 100,
+        "m": 0,
+        "y": 17,
+        "k": 44
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 72,
+      "name": "Türkis Sanft",
+      "category": "Pastell",
+      "hex": "#77C5B8",
+      "rgb": {
+        "r": 119,
+        "g": 197,
+        "b": 184
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 78,
+        "b": 65,
+        "w": 119
+      },
+      "hsl": {
+        "h": 170,
+        "s": 40,
+        "l": 62
+      },
+      "cmyk": {
+        "c": 40,
+        "m": 0,
+        "y": 7,
+        "k": 23
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 73,
+      "name": "Cyan Vibrant",
+      "category": "Vollspektrum",
+      "hex": "#00FFFF",
+      "rgb": {
+        "r": 0,
+        "g": 255,
+        "b": 255
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 255,
+        "b": 255,
+        "w": 0
+      },
+      "hsl": {
+        "h": 180,
+        "s": 100,
+        "l": 50
+      },
+      "cmyk": {
+        "c": 100,
+        "m": 0,
+        "y": 0,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": true
+    },
+    {
+      "id": 74,
+      "name": "Cyan Pastell",
+      "category": "Pastell",
+      "hex": "#B8EAEA",
+      "rgb": {
+        "r": 184,
+        "g": 234,
+        "b": 234
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 50,
+        "b": 50,
+        "w": 184
+      },
+      "hsl": {
+        "h": 180,
+        "s": 54,
+        "l": 82
+      },
+      "cmyk": {
+        "c": 21,
+        "m": 0,
+        "y": 0,
+        "k": 8
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 75,
+      "name": "Cyan Dunkel",
+      "category": "Vollspektrum",
+      "hex": "#008F8F",
+      "rgb": {
+        "r": 0,
+        "g": 143,
+        "b": 143
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 143,
+        "b": 143,
+        "w": 0
+      },
+      "hsl": {
+        "h": 180,
+        "s": 100,
+        "l": 28
+      },
+      "cmyk": {
+        "c": 100,
+        "m": 0,
+        "y": 0,
+        "k": 44
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 76,
+      "name": "Cyan Sanft",
+      "category": "Pastell",
+      "hex": "#77C5C5",
+      "rgb": {
+        "r": 119,
+        "g": 197,
+        "b": 197
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 78,
+        "b": 78,
+        "w": 119
+      },
+      "hsl": {
+        "h": 180,
+        "s": 40,
+        "l": 62
+      },
+      "cmyk": {
+        "c": 40,
+        "m": 0,
+        "y": 0,
+        "k": 23
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 77,
+      "name": "Himmelblau Vibrant",
+      "category": "Vollspektrum",
+      "hex": "#00D4FF",
+      "rgb": {
+        "r": 0,
+        "g": 212,
+        "b": 255
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 212,
+        "b": 255,
+        "w": 0
+      },
+      "hsl": {
+        "h": 190,
+        "s": 100,
+        "l": 50
+      },
+      "cmyk": {
+        "c": 100,
+        "m": 17,
+        "y": 0,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 78,
+      "name": "Himmelblau Pastell",
+      "category": "Pastell",
+      "hex": "#B8E2EA",
+      "rgb": {
+        "r": 184,
+        "g": 226,
+        "b": 234
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 42,
+        "b": 50,
+        "w": 184
+      },
+      "hsl": {
+        "h": 190,
+        "s": 54,
+        "l": 82
+      },
+      "cmyk": {
+        "c": 21,
+        "m": 3,
+        "y": 0,
+        "k": 8
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 79,
+      "name": "Himmelblau Dunkel",
+      "category": "Vollspektrum",
+      "hex": "#00778F",
+      "rgb": {
+        "r": 0,
+        "g": 119,
+        "b": 143
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 119,
+        "b": 143,
+        "w": 0
+      },
+      "hsl": {
+        "h": 190,
+        "s": 100,
+        "l": 28
+      },
+      "cmyk": {
+        "c": 100,
+        "m": 17,
+        "y": 0,
+        "k": 44
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 80,
+      "name": "Himmelblau Sanft",
+      "category": "Pastell",
+      "hex": "#77B8C5",
+      "rgb": {
+        "r": 119,
+        "g": 184,
+        "b": 197
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 65,
+        "b": 78,
+        "w": 119
+      },
+      "hsl": {
+        "h": 190,
+        "s": 40,
+        "l": 62
+      },
+      "cmyk": {
+        "c": 40,
+        "m": 7,
+        "y": 0,
+        "k": 23
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 81,
+      "name": "Azurblau Vibrant",
+      "category": "Vollspektrum",
+      "hex": "#00AAFF",
+      "rgb": {
+        "r": 0,
+        "g": 170,
+        "b": 255
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 170,
+        "b": 255,
+        "w": 0
+      },
+      "hsl": {
+        "h": 200,
+        "s": 100,
+        "l": 50
+      },
+      "cmyk": {
+        "c": 100,
+        "m": 33,
+        "y": 0,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 82,
+      "name": "Azurblau Pastell",
+      "category": "Pastell",
+      "hex": "#B8DAEA",
+      "rgb": {
+        "r": 184,
+        "g": 218,
+        "b": 234
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 34,
+        "b": 50,
+        "w": 184
+      },
+      "hsl": {
+        "h": 199,
+        "s": 54,
+        "l": 82
+      },
+      "cmyk": {
+        "c": 21,
+        "m": 7,
+        "y": 0,
+        "k": 8
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 83,
+      "name": "Azurblau Dunkel",
+      "category": "Vollspektrum",
+      "hex": "#005F8F",
+      "rgb": {
+        "r": 0,
+        "g": 95,
+        "b": 143
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 95,
+        "b": 143,
+        "w": 0
+      },
+      "hsl": {
+        "h": 200,
+        "s": 100,
+        "l": 28
+      },
+      "cmyk": {
+        "c": 100,
+        "m": 34,
+        "y": 0,
+        "k": 44
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 84,
+      "name": "Azurblau Sanft",
+      "category": "Pastell",
+      "hex": "#77ABC5",
+      "rgb": {
+        "r": 119,
+        "g": 171,
+        "b": 197
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 52,
+        "b": 78,
+        "w": 119
+      },
+      "hsl": {
+        "h": 200,
+        "s": 40,
+        "l": 62
+      },
+      "cmyk": {
+        "c": 40,
+        "m": 13,
+        "y": 0,
+        "k": 23
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 85,
+      "name": "Kobaltblau Vibrant",
+      "category": "Vollspektrum",
+      "hex": "#007FFF",
+      "rgb": {
+        "r": 0,
+        "g": 127,
+        "b": 255
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 127,
+        "b": 255,
+        "w": 0
+      },
+      "hsl": {
+        "h": 210,
+        "s": 100,
+        "l": 50
+      },
+      "cmyk": {
+        "c": 100,
+        "m": 50,
+        "y": 0,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 86,
+      "name": "Kobaltblau Pastell",
+      "category": "Pastell",
+      "hex": "#B8D1EA",
+      "rgb": {
+        "r": 184,
+        "g": 209,
+        "b": 234
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 25,
+        "b": 50,
+        "w": 184
+      },
+      "hsl": {
+        "h": 210,
+        "s": 54,
+        "l": 82
+      },
+      "cmyk": {
+        "c": 21,
+        "m": 11,
+        "y": 0,
+        "k": 8
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 87,
+      "name": "Kobaltblau Dunkel",
+      "category": "Vollspektrum",
+      "hex": "#00478F",
+      "rgb": {
+        "r": 0,
+        "g": 71,
+        "b": 143
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 71,
+        "b": 143,
+        "w": 0
+      },
+      "hsl": {
+        "h": 210,
+        "s": 100,
+        "l": 28
+      },
+      "cmyk": {
+        "c": 100,
+        "m": 50,
+        "y": 0,
+        "k": 44
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 88,
+      "name": "Kobaltblau Sanft",
+      "category": "Pastell",
+      "hex": "#779EC5",
+      "rgb": {
+        "r": 119,
+        "g": 158,
+        "b": 197
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 39,
+        "b": 78,
+        "w": 119
+      },
+      "hsl": {
+        "h": 210,
+        "s": 40,
+        "l": 62
+      },
+      "cmyk": {
+        "c": 40,
+        "m": 20,
+        "y": 0,
+        "k": 23
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 89,
+      "name": "Blau Vibrant",
+      "category": "Vollspektrum",
+      "hex": "#0055FF",
+      "rgb": {
+        "r": 0,
+        "g": 85,
+        "b": 255
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 85,
+        "b": 255,
+        "w": 0
+      },
+      "hsl": {
+        "h": 220,
+        "s": 100,
+        "l": 50
+      },
+      "cmyk": {
+        "c": 100,
+        "m": 67,
+        "y": 0,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": true
+    },
+    {
+      "id": 90,
+      "name": "Blau Pastell",
+      "category": "Pastell",
+      "hex": "#B8C9EA",
+      "rgb": {
+        "r": 184,
+        "g": 201,
+        "b": 234
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 17,
+        "b": 50,
+        "w": 184
+      },
+      "hsl": {
+        "h": 220,
+        "s": 54,
+        "l": 82
+      },
+      "cmyk": {
+        "c": 21,
+        "m": 14,
+        "y": 0,
+        "k": 8
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 91,
+      "name": "Blau Dunkel",
+      "category": "Vollspektrum",
+      "hex": "#00308F",
+      "rgb": {
+        "r": 0,
+        "g": 48,
+        "b": 143
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 48,
+        "b": 143,
+        "w": 0
+      },
+      "hsl": {
+        "h": 220,
+        "s": 100,
+        "l": 28
+      },
+      "cmyk": {
+        "c": 100,
+        "m": 66,
+        "y": 0,
+        "k": 44
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 92,
+      "name": "Blau Sanft",
+      "category": "Pastell",
+      "hex": "#7791C5",
+      "rgb": {
+        "r": 119,
+        "g": 145,
+        "b": 197
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 26,
+        "b": 78,
+        "w": 119
+      },
+      "hsl": {
+        "h": 220,
+        "s": 40,
+        "l": 62
+      },
+      "cmyk": {
+        "c": 40,
+        "m": 26,
+        "y": 0,
+        "k": 23
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 93,
+      "name": "Ultramarin Vibrant",
+      "category": "Vollspektrum",
+      "hex": "#002BFF",
+      "rgb": {
+        "r": 0,
+        "g": 43,
+        "b": 255
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 43,
+        "b": 255,
+        "w": 0
+      },
+      "hsl": {
+        "h": 230,
+        "s": 100,
+        "l": 50
+      },
+      "cmyk": {
+        "c": 100,
+        "m": 83,
+        "y": 0,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 94,
+      "name": "Ultramarin Pastell",
+      "category": "Pastell",
+      "hex": "#B8C0EA",
+      "rgb": {
+        "r": 184,
+        "g": 192,
+        "b": 234
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 8,
+        "b": 50,
+        "w": 184
+      },
+      "hsl": {
+        "h": 230,
+        "s": 54,
+        "l": 82
+      },
+      "cmyk": {
+        "c": 21,
+        "m": 18,
+        "y": 0,
+        "k": 8
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 95,
+      "name": "Ultramarin Dunkel",
+      "category": "Vollspektrum",
+      "hex": "#00188F",
+      "rgb": {
+        "r": 0,
+        "g": 24,
+        "b": 143
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 24,
+        "b": 143,
+        "w": 0
+      },
+      "hsl": {
+        "h": 230,
+        "s": 100,
+        "l": 28
+      },
+      "cmyk": {
+        "c": 100,
+        "m": 83,
+        "y": 0,
+        "k": 44
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 96,
+      "name": "Ultramarin Sanft",
+      "category": "Pastell",
+      "hex": "#7784C5",
+      "rgb": {
+        "r": 119,
+        "g": 132,
+        "b": 197
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 13,
+        "b": 78,
+        "w": 119
+      },
+      "hsl": {
+        "h": 230,
+        "s": 40,
+        "l": 62
+      },
+      "cmyk": {
+        "c": 40,
+        "m": 33,
+        "y": 0,
+        "k": 23
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 97,
+      "name": "Indigo Vibrant",
+      "category": "Vollspektrum",
+      "hex": "#0000FF",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 255
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 0,
+        "b": 255,
+        "w": 0
+      },
+      "hsl": {
+        "h": 240,
+        "s": 100,
+        "l": 50
+      },
+      "cmyk": {
+        "c": 100,
+        "m": 100,
+        "y": 0,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": true
+    },
+    {
+      "id": 98,
+      "name": "Indigo Pastell",
+      "category": "Pastell",
+      "hex": "#B8B8EA",
+      "rgb": {
+        "r": 184,
+        "g": 184,
+        "b": 234
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 0,
+        "b": 50,
+        "w": 184
+      },
+      "hsl": {
+        "h": 240,
+        "s": 54,
+        "l": 82
+      },
+      "cmyk": {
+        "c": 21,
+        "m": 21,
+        "y": 0,
+        "k": 8
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 99,
+      "name": "Indigo Dunkel",
+      "category": "Vollspektrum",
+      "hex": "#00008F",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 143
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 0,
+        "b": 143,
+        "w": 0
+      },
+      "hsl": {
+        "h": 240,
+        "s": 100,
+        "l": 28
+      },
+      "cmyk": {
+        "c": 100,
+        "m": 100,
+        "y": 0,
+        "k": 44
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 100,
+      "name": "Indigo Sanft",
+      "category": "Pastell",
+      "hex": "#7777C5",
+      "rgb": {
+        "r": 119,
+        "g": 119,
+        "b": 197
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 0,
+        "b": 78,
+        "w": 119
+      },
+      "hsl": {
+        "h": 240,
+        "s": 40,
+        "l": 62
+      },
+      "cmyk": {
+        "c": 40,
+        "m": 40,
+        "y": 0,
+        "k": 23
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 101,
+      "name": "Violettblau Vibrant",
+      "category": "Vollspektrum",
+      "hex": "#2A00FF",
+      "rgb": {
+        "r": 42,
+        "g": 0,
+        "b": 255
+      },
+      "rgbw": {
+        "r": 42,
+        "g": 0,
+        "b": 255,
+        "w": 0
+      },
+      "hsl": {
+        "h": 250,
+        "s": 100,
+        "l": 50
+      },
+      "cmyk": {
+        "c": 84,
+        "m": 100,
+        "y": 0,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 102,
+      "name": "Violettblau Pastell",
+      "category": "Pastell",
+      "hex": "#C0B8EA",
+      "rgb": {
+        "r": 192,
+        "g": 184,
+        "b": 234
+      },
+      "rgbw": {
+        "r": 8,
+        "g": 0,
+        "b": 50,
+        "w": 184
+      },
+      "hsl": {
+        "h": 250,
+        "s": 54,
+        "l": 82
+      },
+      "cmyk": {
+        "c": 18,
+        "m": 21,
+        "y": 0,
+        "k": 8
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 103,
+      "name": "Violettblau Dunkel",
+      "category": "Vollspektrum",
+      "hex": "#18008F",
+      "rgb": {
+        "r": 24,
+        "g": 0,
+        "b": 143
+      },
+      "rgbw": {
+        "r": 24,
+        "g": 0,
+        "b": 143,
+        "w": 0
+      },
+      "hsl": {
+        "h": 250,
+        "s": 100,
+        "l": 28
+      },
+      "cmyk": {
+        "c": 83,
+        "m": 100,
+        "y": 0,
+        "k": 44
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 104,
+      "name": "Violettblau Sanft",
+      "category": "Pastell",
+      "hex": "#8477C5",
+      "rgb": {
+        "r": 132,
+        "g": 119,
+        "b": 197
+      },
+      "rgbw": {
+        "r": 13,
+        "g": 0,
+        "b": 78,
+        "w": 119
+      },
+      "hsl": {
+        "h": 250,
+        "s": 40,
+        "l": 62
+      },
+      "cmyk": {
+        "c": 33,
+        "m": 40,
+        "y": 0,
+        "k": 23
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 105,
+      "name": "Violett Vibrant",
+      "category": "Vollspektrum",
+      "hex": "#5500FF",
+      "rgb": {
+        "r": 85,
+        "g": 0,
+        "b": 255
+      },
+      "rgbw": {
+        "r": 85,
+        "g": 0,
+        "b": 255,
+        "w": 0
+      },
+      "hsl": {
+        "h": 260,
+        "s": 100,
+        "l": 50
+      },
+      "cmyk": {
+        "c": 67,
+        "m": 100,
+        "y": 0,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 106,
+      "name": "Violett Pastell",
+      "category": "Pastell",
+      "hex": "#C9B8EA",
+      "rgb": {
+        "r": 201,
+        "g": 184,
+        "b": 234
+      },
+      "rgbw": {
+        "r": 17,
+        "g": 0,
+        "b": 50,
+        "w": 184
+      },
+      "hsl": {
+        "h": 260,
+        "s": 54,
+        "l": 82
+      },
+      "cmyk": {
+        "c": 14,
+        "m": 21,
+        "y": 0,
+        "k": 8
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 107,
+      "name": "Violett Dunkel",
+      "category": "Vollspektrum",
+      "hex": "#30008F",
+      "rgb": {
+        "r": 48,
+        "g": 0,
+        "b": 143
+      },
+      "rgbw": {
+        "r": 48,
+        "g": 0,
+        "b": 143,
+        "w": 0
+      },
+      "hsl": {
+        "h": 260,
+        "s": 100,
+        "l": 28
+      },
+      "cmyk": {
+        "c": 66,
+        "m": 100,
+        "y": 0,
+        "k": 44
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 108,
+      "name": "Violett Sanft",
+      "category": "Pastell",
+      "hex": "#9177C5",
+      "rgb": {
+        "r": 145,
+        "g": 119,
+        "b": 197
+      },
+      "rgbw": {
+        "r": 26,
+        "g": 0,
+        "b": 78,
+        "w": 119
+      },
+      "hsl": {
+        "h": 260,
+        "s": 40,
+        "l": 62
+      },
+      "cmyk": {
+        "c": 26,
+        "m": 40,
+        "y": 0,
+        "k": 23
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 109,
+      "name": "Lavendel Vibrant",
+      "category": "Vollspektrum",
+      "hex": "#7F00FF",
+      "rgb": {
+        "r": 127,
+        "g": 0,
+        "b": 255
+      },
+      "rgbw": {
+        "r": 127,
+        "g": 0,
+        "b": 255,
+        "w": 0
+      },
+      "hsl": {
+        "h": 270,
+        "s": 100,
+        "l": 50
+      },
+      "cmyk": {
+        "c": 50,
+        "m": 100,
+        "y": 0,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": true
+    },
+    {
+      "id": 110,
+      "name": "Lavendel Pastell",
+      "category": "Pastell",
+      "hex": "#D1B8EA",
+      "rgb": {
+        "r": 209,
+        "g": 184,
+        "b": 234
+      },
+      "rgbw": {
+        "r": 25,
+        "g": 0,
+        "b": 50,
+        "w": 184
+      },
+      "hsl": {
+        "h": 270,
+        "s": 54,
+        "l": 82
+      },
+      "cmyk": {
+        "c": 11,
+        "m": 21,
+        "y": 0,
+        "k": 8
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 111,
+      "name": "Lavendel Dunkel",
+      "category": "Vollspektrum",
+      "hex": "#47008F",
+      "rgb": {
+        "r": 71,
+        "g": 0,
+        "b": 143
+      },
+      "rgbw": {
+        "r": 71,
+        "g": 0,
+        "b": 143,
+        "w": 0
+      },
+      "hsl": {
+        "h": 270,
+        "s": 100,
+        "l": 28
+      },
+      "cmyk": {
+        "c": 50,
+        "m": 100,
+        "y": 0,
+        "k": 44
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 112,
+      "name": "Lavendel Sanft",
+      "category": "Pastell",
+      "hex": "#9E77C5",
+      "rgb": {
+        "r": 158,
+        "g": 119,
+        "b": 197
+      },
+      "rgbw": {
+        "r": 39,
+        "g": 0,
+        "b": 78,
+        "w": 119
+      },
+      "hsl": {
+        "h": 270,
+        "s": 40,
+        "l": 62
+      },
+      "cmyk": {
+        "c": 20,
+        "m": 40,
+        "y": 0,
+        "k": 23
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 113,
+      "name": "Purpur Vibrant",
+      "category": "Vollspektrum",
+      "hex": "#AA00FF",
+      "rgb": {
+        "r": 170,
+        "g": 0,
+        "b": 255
+      },
+      "rgbw": {
+        "r": 170,
+        "g": 0,
+        "b": 255,
+        "w": 0
+      },
+      "hsl": {
+        "h": 280,
+        "s": 100,
+        "l": 50
+      },
+      "cmyk": {
+        "c": 33,
+        "m": 100,
+        "y": 0,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": true
+    },
+    {
+      "id": 114,
+      "name": "Purpur Pastell",
+      "category": "Pastell",
+      "hex": "#DAB8EA",
+      "rgb": {
+        "r": 218,
+        "g": 184,
+        "b": 234
+      },
+      "rgbw": {
+        "r": 34,
+        "g": 0,
+        "b": 50,
+        "w": 184
+      },
+      "hsl": {
+        "h": 281,
+        "s": 54,
+        "l": 82
+      },
+      "cmyk": {
+        "c": 7,
+        "m": 21,
+        "y": 0,
+        "k": 8
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 115,
+      "name": "Purpur Dunkel",
+      "category": "Vollspektrum",
+      "hex": "#5F008F",
+      "rgb": {
+        "r": 95,
+        "g": 0,
+        "b": 143
+      },
+      "rgbw": {
+        "r": 95,
+        "g": 0,
+        "b": 143,
+        "w": 0
+      },
+      "hsl": {
+        "h": 280,
+        "s": 100,
+        "l": 28
+      },
+      "cmyk": {
+        "c": 34,
+        "m": 100,
+        "y": 0,
+        "k": 44
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 116,
+      "name": "Purpur Sanft",
+      "category": "Pastell",
+      "hex": "#AB77C5",
+      "rgb": {
+        "r": 171,
+        "g": 119,
+        "b": 197
+      },
+      "rgbw": {
+        "r": 52,
+        "g": 0,
+        "b": 78,
+        "w": 119
+      },
+      "hsl": {
+        "h": 280,
+        "s": 40,
+        "l": 62
+      },
+      "cmyk": {
+        "c": 13,
+        "m": 40,
+        "y": 0,
+        "k": 23
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 117,
+      "name": "Magenta Vibrant",
+      "category": "Vollspektrum",
+      "hex": "#D400FF",
+      "rgb": {
+        "r": 212,
+        "g": 0,
+        "b": 255
+      },
+      "rgbw": {
+        "r": 212,
+        "g": 0,
+        "b": 255,
+        "w": 0
+      },
+      "hsl": {
+        "h": 290,
+        "s": 100,
+        "l": 50
+      },
+      "cmyk": {
+        "c": 17,
+        "m": 100,
+        "y": 0,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": true
+    },
+    {
+      "id": 118,
+      "name": "Magenta Pastell",
+      "category": "Pastell",
+      "hex": "#E2B8EA",
+      "rgb": {
+        "r": 226,
+        "g": 184,
+        "b": 234
+      },
+      "rgbw": {
+        "r": 42,
+        "g": 0,
+        "b": 50,
+        "w": 184
+      },
+      "hsl": {
+        "h": 290,
+        "s": 54,
+        "l": 82
+      },
+      "cmyk": {
+        "c": 3,
+        "m": 21,
+        "y": 0,
+        "k": 8
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 119,
+      "name": "Magenta Dunkel",
+      "category": "Vollspektrum",
+      "hex": "#77008F",
+      "rgb": {
+        "r": 119,
+        "g": 0,
+        "b": 143
+      },
+      "rgbw": {
+        "r": 119,
+        "g": 0,
+        "b": 143,
+        "w": 0
+      },
+      "hsl": {
+        "h": 290,
+        "s": 100,
+        "l": 28
+      },
+      "cmyk": {
+        "c": 17,
+        "m": 100,
+        "y": 0,
+        "k": 44
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 120,
+      "name": "Magenta Sanft",
+      "category": "Pastell",
+      "hex": "#B877C5",
+      "rgb": {
+        "r": 184,
+        "g": 119,
+        "b": 197
+      },
+      "rgbw": {
+        "r": 65,
+        "g": 0,
+        "b": 78,
+        "w": 119
+      },
+      "hsl": {
+        "h": 290,
+        "s": 40,
+        "l": 62
+      },
+      "cmyk": {
+        "c": 7,
+        "m": 40,
+        "y": 0,
+        "k": 23
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 121,
+      "name": "Fuchsia Vibrant",
+      "category": "Vollspektrum",
+      "hex": "#FF00FF",
+      "rgb": {
+        "r": 255,
+        "g": 0,
+        "b": 255
+      },
+      "rgbw": {
+        "r": 255,
+        "g": 0,
+        "b": 255,
+        "w": 0
+      },
+      "hsl": {
+        "h": 300,
+        "s": 100,
+        "l": 50
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 100,
+        "y": 0,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": true
+    },
+    {
+      "id": 122,
+      "name": "Fuchsia Pastell",
+      "category": "Pastell",
+      "hex": "#EAB8EA",
+      "rgb": {
+        "r": 234,
+        "g": 184,
+        "b": 234
+      },
+      "rgbw": {
+        "r": 50,
+        "g": 0,
+        "b": 50,
+        "w": 184
+      },
+      "hsl": {
+        "h": 300,
+        "s": 54,
+        "l": 82
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 21,
+        "y": 0,
+        "k": 8
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 123,
+      "name": "Fuchsia Dunkel",
+      "category": "Vollspektrum",
+      "hex": "#8F008F",
+      "rgb": {
+        "r": 143,
+        "g": 0,
+        "b": 143
+      },
+      "rgbw": {
+        "r": 143,
+        "g": 0,
+        "b": 143,
+        "w": 0
+      },
+      "hsl": {
+        "h": 300,
+        "s": 100,
+        "l": 28
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 100,
+        "y": 0,
+        "k": 44
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 124,
+      "name": "Fuchsia Sanft",
+      "category": "Pastell",
+      "hex": "#C577C5",
+      "rgb": {
+        "r": 197,
+        "g": 119,
+        "b": 197
+      },
+      "rgbw": {
+        "r": 78,
+        "g": 0,
+        "b": 78,
+        "w": 119
+      },
+      "hsl": {
+        "h": 300,
+        "s": 40,
+        "l": 62
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 40,
+        "y": 0,
+        "k": 23
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 125,
+      "name": "Pink Vibrant",
+      "category": "Vollspektrum",
+      "hex": "#FF00D4",
+      "rgb": {
+        "r": 255,
+        "g": 0,
+        "b": 212
+      },
+      "rgbw": {
+        "r": 255,
+        "g": 0,
+        "b": 212,
+        "w": 0
+      },
+      "hsl": {
+        "h": 310,
+        "s": 100,
+        "l": 50
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 100,
+        "y": 17,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": true
+    },
+    {
+      "id": 126,
+      "name": "Pink Pastell",
+      "category": "Pastell",
+      "hex": "#EAB8E2",
+      "rgb": {
+        "r": 234,
+        "g": 184,
+        "b": 226
+      },
+      "rgbw": {
+        "r": 50,
+        "g": 0,
+        "b": 42,
+        "w": 184
+      },
+      "hsl": {
+        "h": 310,
+        "s": 54,
+        "l": 82
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 21,
+        "y": 3,
+        "k": 8
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 127,
+      "name": "Pink Dunkel",
+      "category": "Vollspektrum",
+      "hex": "#8F0077",
+      "rgb": {
+        "r": 143,
+        "g": 0,
+        "b": 119
+      },
+      "rgbw": {
+        "r": 143,
+        "g": 0,
+        "b": 119,
+        "w": 0
+      },
+      "hsl": {
+        "h": 310,
+        "s": 100,
+        "l": 28
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 100,
+        "y": 17,
+        "k": 44
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 128,
+      "name": "Pink Sanft",
+      "category": "Pastell",
+      "hex": "#C577B8",
+      "rgb": {
+        "r": 197,
+        "g": 119,
+        "b": 184
+      },
+      "rgbw": {
+        "r": 78,
+        "g": 0,
+        "b": 65,
+        "w": 119
+      },
+      "hsl": {
+        "h": 310,
+        "s": 40,
+        "l": 62
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 40,
+        "y": 7,
+        "k": 23
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 129,
+      "name": "Rosa Vibrant",
+      "category": "Vollspektrum",
+      "hex": "#FF00AA",
+      "rgb": {
+        "r": 255,
+        "g": 0,
+        "b": 170
+      },
+      "rgbw": {
+        "r": 255,
+        "g": 0,
+        "b": 170,
+        "w": 0
+      },
+      "hsl": {
+        "h": 320,
+        "s": 100,
+        "l": 50
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 100,
+        "y": 33,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": true
+    },
+    {
+      "id": 130,
+      "name": "Rosa Pastell",
+      "category": "Pastell",
+      "hex": "#EAB8DA",
+      "rgb": {
+        "r": 234,
+        "g": 184,
+        "b": 218
+      },
+      "rgbw": {
+        "r": 50,
+        "g": 0,
+        "b": 34,
+        "w": 184
+      },
+      "hsl": {
+        "h": 319,
+        "s": 54,
+        "l": 82
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 21,
+        "y": 7,
+        "k": 8
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 131,
+      "name": "Rosa Dunkel",
+      "category": "Vollspektrum",
+      "hex": "#8F005F",
+      "rgb": {
+        "r": 143,
+        "g": 0,
+        "b": 95
+      },
+      "rgbw": {
+        "r": 143,
+        "g": 0,
+        "b": 95,
+        "w": 0
+      },
+      "hsl": {
+        "h": 320,
+        "s": 100,
+        "l": 28
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 100,
+        "y": 34,
+        "k": 44
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 132,
+      "name": "Rosa Sanft",
+      "category": "Pastell",
+      "hex": "#C577AB",
+      "rgb": {
+        "r": 197,
+        "g": 119,
+        "b": 171
+      },
+      "rgbw": {
+        "r": 78,
+        "g": 0,
+        "b": 52,
+        "w": 119
+      },
+      "hsl": {
+        "h": 320,
+        "s": 40,
+        "l": 62
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 40,
+        "y": 13,
+        "k": 23
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 133,
+      "name": "Kirschrot Vibrant",
+      "category": "Vollspektrum",
+      "hex": "#FF0080",
+      "rgb": {
+        "r": 255,
+        "g": 0,
+        "b": 128
+      },
+      "rgbw": {
+        "r": 255,
+        "g": 0,
+        "b": 128,
+        "w": 0
+      },
+      "hsl": {
+        "h": 330,
+        "s": 100,
+        "l": 50
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 100,
+        "y": 50,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 134,
+      "name": "Kirschrot Pastell",
+      "category": "Pastell",
+      "hex": "#EAB8D1",
+      "rgb": {
+        "r": 234,
+        "g": 184,
+        "b": 209
+      },
+      "rgbw": {
+        "r": 50,
+        "g": 0,
+        "b": 25,
+        "w": 184
+      },
+      "hsl": {
+        "h": 330,
+        "s": 54,
+        "l": 82
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 21,
+        "y": 11,
+        "k": 8
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 135,
+      "name": "Kirschrot Dunkel",
+      "category": "Vollspektrum",
+      "hex": "#8F0047",
+      "rgb": {
+        "r": 143,
+        "g": 0,
+        "b": 71
+      },
+      "rgbw": {
+        "r": 143,
+        "g": 0,
+        "b": 71,
+        "w": 0
+      },
+      "hsl": {
+        "h": 330,
+        "s": 100,
+        "l": 28
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 100,
+        "y": 50,
+        "k": 44
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 136,
+      "name": "Kirschrot Sanft",
+      "category": "Pastell",
+      "hex": "#C5779E",
+      "rgb": {
+        "r": 197,
+        "g": 119,
+        "b": 158
+      },
+      "rgbw": {
+        "r": 78,
+        "g": 0,
+        "b": 39,
+        "w": 119
+      },
+      "hsl": {
+        "h": 330,
+        "s": 40,
+        "l": 62
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 40,
+        "y": 20,
+        "k": 23
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 137,
+      "name": "Karminrot Vibrant",
+      "category": "Vollspektrum",
+      "hex": "#FF0055",
+      "rgb": {
+        "r": 255,
+        "g": 0,
+        "b": 85
+      },
+      "rgbw": {
+        "r": 255,
+        "g": 0,
+        "b": 85,
+        "w": 0
+      },
+      "hsl": {
+        "h": 340,
+        "s": 100,
+        "l": 50
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 100,
+        "y": 67,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": true
+    },
+    {
+      "id": 138,
+      "name": "Karminrot Pastell",
+      "category": "Pastell",
+      "hex": "#EAB8C9",
+      "rgb": {
+        "r": 234,
+        "g": 184,
+        "b": 201
+      },
+      "rgbw": {
+        "r": 50,
+        "g": 0,
+        "b": 17,
+        "w": 184
+      },
+      "hsl": {
+        "h": 340,
+        "s": 54,
+        "l": 82
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 21,
+        "y": 14,
+        "k": 8
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 139,
+      "name": "Karminrot Dunkel",
+      "category": "Vollspektrum",
+      "hex": "#8F0030",
+      "rgb": {
+        "r": 143,
+        "g": 0,
+        "b": 48
+      },
+      "rgbw": {
+        "r": 143,
+        "g": 0,
+        "b": 48,
+        "w": 0
+      },
+      "hsl": {
+        "h": 340,
+        "s": 100,
+        "l": 28
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 100,
+        "y": 66,
+        "k": 44
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 140,
+      "name": "Karminrot Sanft",
+      "category": "Pastell",
+      "hex": "#C57791",
+      "rgb": {
+        "r": 197,
+        "g": 119,
+        "b": 145
+      },
+      "rgbw": {
+        "r": 78,
+        "g": 0,
+        "b": 26,
+        "w": 119
+      },
+      "hsl": {
+        "h": 340,
+        "s": 40,
+        "l": 62
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 40,
+        "y": 26,
+        "k": 23
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 141,
+      "name": "Scharlachrot Vibrant",
+      "category": "Vollspektrum",
+      "hex": "#FF002B",
+      "rgb": {
+        "r": 255,
+        "g": 0,
+        "b": 43
+      },
+      "rgbw": {
+        "r": 255,
+        "g": 0,
+        "b": 43,
+        "w": 0
+      },
+      "hsl": {
+        "h": 350,
+        "s": 100,
+        "l": 50
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 100,
+        "y": 83,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 142,
+      "name": "Scharlachrot Pastell",
+      "category": "Pastell",
+      "hex": "#EAB8C0",
+      "rgb": {
+        "r": 234,
+        "g": 184,
+        "b": 192
+      },
+      "rgbw": {
+        "r": 50,
+        "g": 0,
+        "b": 8,
+        "w": 184
+      },
+      "hsl": {
+        "h": 350,
+        "s": 54,
+        "l": 82
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 21,
+        "y": 18,
+        "k": 8
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 143,
+      "name": "Scharlachrot Dunkel",
+      "category": "Vollspektrum",
+      "hex": "#8F0018",
+      "rgb": {
+        "r": 143,
+        "g": 0,
+        "b": 24
+      },
+      "rgbw": {
+        "r": 143,
+        "g": 0,
+        "b": 24,
+        "w": 0
+      },
+      "hsl": {
+        "h": 350,
+        "s": 100,
+        "l": 28
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 100,
+        "y": 83,
+        "k": 44
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 144,
+      "name": "Scharlachrot Sanft",
+      "category": "Pastell",
+      "hex": "#C57784",
+      "rgb": {
+        "r": 197,
+        "g": 119,
+        "b": 132
+      },
+      "rgbw": {
+        "r": 78,
+        "g": 0,
+        "b": 13,
+        "w": 119
+      },
+      "hsl": {
+        "h": 350,
+        "s": 40,
+        "l": 62
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 40,
+        "y": 33,
+        "k": 23
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 145,
+      "name": "Kerzenlicht",
+      "category": "Warmweiß",
+      "hex": "#FF8400",
+      "rgb": {
+        "r": 255,
+        "g": 132,
+        "b": 0
+      },
+      "rgbw": {
+        "r": 255,
+        "g": 132,
+        "b": 0,
+        "w": 0
+      },
+      "hsl": {
+        "h": 31,
+        "s": 100,
+        "l": 50
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 48,
+        "y": 100,
+        "k": 0
+      },
+      "colorTempKelvin": 1900,
+      "popular": false
+    },
+    {
+      "id": 146,
+      "name": "Sonnenuntergang",
+      "category": "Warmweiß",
+      "hex": "#FF9227",
+      "rgb": {
+        "r": 255,
+        "g": 146,
+        "b": 39
+      },
+      "rgbw": {
+        "r": 216,
+        "g": 107,
+        "b": 0,
+        "w": 39
+      },
+      "hsl": {
+        "h": 30,
+        "s": 100,
+        "l": 58
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 43,
+        "y": 85,
+        "k": 0
+      },
+      "colorTempKelvin": 2200,
+      "popular": false
+    },
+    {
+      "id": 147,
+      "name": "Extra Warmweiß",
+      "category": "Warmweiß",
+      "hex": "#FF9B3D",
+      "rgb": {
+        "r": 255,
+        "g": 155,
+        "b": 61
+      },
+      "rgbw": {
+        "r": 194,
+        "g": 94,
+        "b": 0,
+        "w": 61
+      },
+      "hsl": {
+        "h": 29,
+        "s": 100,
+        "l": 62
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 39,
+        "y": 76,
+        "k": 0
+      },
+      "colorTempKelvin": 2400,
+      "popular": false
+    },
+    {
+      "id": 148,
+      "name": "Warmweiß 2700K",
+      "category": "Warmweiß",
+      "hex": "#FFA757",
+      "rgb": {
+        "r": 255,
+        "g": 167,
+        "b": 87
+      },
+      "rgbw": {
+        "r": 168,
+        "g": 80,
+        "b": 0,
+        "w": 87
+      },
+      "hsl": {
+        "h": 29,
+        "s": 100,
+        "l": 67
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 35,
+        "y": 66,
+        "k": 0
+      },
+      "colorTempKelvin": 2700,
+      "popular": false
+    },
+    {
+      "id": 149,
+      "name": "Warmweiß 3000K",
+      "category": "Warmweiß",
+      "hex": "#FFB16E",
+      "rgb": {
+        "r": 255,
+        "g": 177,
+        "b": 110
+      },
+      "rgbw": {
+        "r": 145,
+        "g": 67,
+        "b": 0,
+        "w": 110
+      },
+      "hsl": {
+        "h": 28,
+        "s": 100,
+        "l": 72
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 31,
+        "y": 57,
+        "k": 0
+      },
+      "colorTempKelvin": 3000,
+      "popular": false
+    },
+    {
+      "id": 150,
+      "name": "Warmweiß 3200K (Studio A)",
+      "category": "Warmweiß",
+      "hex": "#FFB87B",
+      "rgb": {
+        "r": 255,
+        "g": 184,
+        "b": 123
+      },
+      "rgbw": {
+        "r": 132,
+        "g": 61,
+        "b": 0,
+        "w": 123
+      },
+      "hsl": {
+        "h": 28,
+        "s": 100,
+        "l": 74
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 28,
+        "y": 52,
+        "k": 0
+      },
+      "colorTempKelvin": 3200,
+      "popular": true
+    },
+    {
+      "id": 151,
+      "name": "Neutralweiß 3500K",
+      "category": "Neutralweiß",
+      "hex": "#FFC18D",
+      "rgb": {
+        "r": 255,
+        "g": 193,
+        "b": 141
+      },
+      "rgbw": {
+        "r": 114,
+        "g": 52,
+        "b": 0,
+        "w": 141
+      },
+      "hsl": {
+        "h": 27,
+        "s": 100,
+        "l": 78
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 24,
+        "y": 45,
+        "k": 0
+      },
+      "colorTempKelvin": 3500,
+      "popular": false
+    },
+    {
+      "id": 152,
+      "name": "Neutralweiß 4000K",
+      "category": "Neutralweiß",
+      "hex": "#FFCEA6",
+      "rgb": {
+        "r": 255,
+        "g": 206,
+        "b": 166
+      },
+      "rgbw": {
+        "r": 89,
+        "g": 40,
+        "b": 0,
+        "w": 166
+      },
+      "hsl": {
+        "h": 27,
+        "s": 100,
+        "l": 83
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 19,
+        "y": 35,
+        "k": 0
+      },
+      "colorTempKelvin": 4000,
+      "popular": false
+    },
+    {
+      "id": 153,
+      "name": "Neutralweiß 4500K",
+      "category": "Neutralweiß",
+      "hex": "#FFDABB",
+      "rgb": {
+        "r": 255,
+        "g": 218,
+        "b": 187
+      },
+      "rgbw": {
+        "r": 68,
+        "g": 31,
+        "b": 0,
+        "w": 187
+      },
+      "hsl": {
+        "h": 27,
+        "s": 100,
+        "l": 87
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 15,
+        "y": 27,
+        "k": 0
+      },
+      "colorTempKelvin": 4500,
+      "popular": false
+    },
+    {
+      "id": 154,
+      "name": "Tageslicht 5000K",
+      "category": "Kaltweiß",
+      "hex": "#FFE4CE",
+      "rgb": {
+        "r": 255,
+        "g": 228,
+        "b": 206
+      },
+      "rgbw": {
+        "r": 49,
+        "g": 22,
+        "b": 0,
+        "w": 206
+      },
+      "hsl": {
+        "h": 27,
+        "s": 100,
+        "l": 90
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 11,
+        "y": 19,
+        "k": 0
+      },
+      "colorTempKelvin": 5000,
+      "popular": false
+    },
+    {
+      "id": 155,
+      "name": "Tageslicht 5600K (Studio D)",
+      "category": "Kaltweiß",
+      "hex": "#FFEFE1",
+      "rgb": {
+        "r": 255,
+        "g": 239,
+        "b": 225
+      },
+      "rgbw": {
+        "r": 30,
+        "g": 14,
+        "b": 0,
+        "w": 225
+      },
+      "hsl": {
+        "h": 28,
+        "s": 100,
+        "l": 94
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 6,
+        "y": 12,
+        "k": 0
+      },
+      "colorTempKelvin": 5600,
+      "popular": true
+    },
+    {
+      "id": 156,
+      "name": "Kaltweiß 6000K",
+      "category": "Kaltweiß",
+      "hex": "#FFF6ED",
+      "rgb": {
+        "r": 255,
+        "g": 246,
+        "b": 237
+      },
+      "rgbw": {
+        "r": 18,
+        "g": 9,
+        "b": 0,
+        "w": 237
+      },
+      "hsl": {
+        "h": 30,
+        "s": 100,
+        "l": 96
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 4,
+        "y": 7,
+        "k": 0
+      },
+      "colorTempKelvin": 6000,
+      "popular": false
+    },
+    {
+      "id": 157,
+      "name": "Kaltweiß 6500K (D65)",
+      "category": "Kaltweiß",
+      "hex": "#FFFEFA",
+      "rgb": {
+        "r": 255,
+        "g": 254,
+        "b": 250
+      },
+      "rgbw": {
+        "r": 5,
+        "g": 4,
+        "b": 0,
+        "w": 250
+      },
+      "hsl": {
+        "h": 48,
+        "s": 100,
+        "l": 99
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 0,
+        "y": 2,
+        "k": 0
+      },
+      "colorTempKelvin": 6500,
+      "popular": true
+    },
+    {
+      "id": 158,
+      "name": "Bewölkter Himmel 7000K",
+      "category": "Kaltweiß",
+      "hex": "#F3F2FF",
+      "rgb": {
+        "r": 243,
+        "g": 242,
+        "b": 255
+      },
+      "rgbw": {
+        "r": 1,
+        "g": 0,
+        "b": 13,
+        "w": 242
+      },
+      "hsl": {
+        "h": 245,
+        "s": 100,
+        "l": 97
+      },
+      "cmyk": {
+        "c": 5,
+        "m": 5,
+        "y": 0,
+        "k": 0
+      },
+      "colorTempKelvin": 7000,
+      "popular": false
+    },
+    {
+      "id": 159,
+      "name": "Blauer Himmel 8000K",
+      "category": "Kaltweiß",
+      "hex": "#DDE6FF",
+      "rgb": {
+        "r": 221,
+        "g": 230,
+        "b": 255
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 9,
+        "b": 34,
+        "w": 221
+      },
+      "hsl": {
+        "h": 224,
+        "s": 100,
+        "l": 93
+      },
+      "cmyk": {
+        "c": 13,
+        "m": 10,
+        "y": 0,
+        "k": 0
+      },
+      "colorTempKelvin": 8000,
+      "popular": false
+    },
+    {
+      "id": 160,
+      "name": "Nordlicht 9000K",
+      "category": "Kaltweiß",
+      "hex": "#D2DFFF",
+      "rgb": {
+        "r": 210,
+        "g": 223,
+        "b": 255
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 13,
+        "b": 45,
+        "w": 210
+      },
+      "hsl": {
+        "h": 223,
+        "s": 100,
+        "l": 91
+      },
+      "cmyk": {
+        "c": 18,
+        "m": 13,
+        "y": 0,
+        "k": 0
+      },
+      "colorTempKelvin": 9000,
+      "popular": false
+    },
+    {
+      "id": 161,
+      "name": "Eisblau 10000K",
+      "category": "Kaltweiß",
+      "hex": "#CADAFF",
+      "rgb": {
+        "r": 202,
+        "g": 218,
+        "b": 255
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 16,
+        "b": 53,
+        "w": 202
+      },
+      "hsl": {
+        "h": 222,
+        "s": 100,
+        "l": 90
+      },
+      "cmyk": {
+        "c": 21,
+        "m": 15,
+        "y": 0,
+        "k": 0
+      },
+      "colorTempKelvin": 10000,
+      "popular": false
+    },
+    {
+      "id": 162,
+      "name": "Polarlicht 12000K",
+      "category": "Kaltweiß",
+      "hex": "#BFD3FF",
+      "rgb": {
+        "r": 191,
+        "g": 211,
+        "b": 255
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 20,
+        "b": 64,
+        "w": 191
+      },
+      "hsl": {
+        "h": 221,
+        "s": 100,
+        "l": 87
+      },
+      "cmyk": {
+        "c": 25,
+        "m": 17,
+        "y": 0,
+        "k": 0
+      },
+      "colorTempKelvin": 12000,
+      "popular": false
+    },
+    {
+      "id": 163,
+      "name": "Bastard Amber",
+      "category": "Gel-Farbe",
+      "hex": "#FFB04F",
+      "rgb": {
+        "r": 255,
+        "g": 176,
+        "b": 79
+      },
+      "rgbw": {
+        "r": 176,
+        "g": 97,
+        "b": 0,
+        "w": 79
+      },
+      "hsl": {
+        "h": 33,
+        "s": 100,
+        "l": 65
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 31,
+        "y": 69,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": true
+    },
+    {
+      "id": 164,
+      "name": "Congo Blue",
+      "category": "Gel-Farbe",
+      "hex": "#003F87",
+      "rgb": {
+        "r": 0,
+        "g": 63,
+        "b": 135
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 63,
+        "b": 135,
+        "w": 0
+      },
+      "hsl": {
+        "h": 212,
+        "s": 100,
+        "l": 26
+      },
+      "cmyk": {
+        "c": 100,
+        "m": 53,
+        "y": 0,
+        "k": 47
+      },
+      "colorTempKelvin": null,
+      "popular": true
+    },
+    {
+      "id": 165,
+      "name": "Steel Blue",
+      "category": "Gel-Farbe",
+      "hex": "#5485A8",
+      "rgb": {
+        "r": 84,
+        "g": 133,
+        "b": 168
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 49,
+        "b": 84,
+        "w": 84
+      },
+      "hsl": {
+        "h": 205,
+        "s": 33,
+        "l": 49
+      },
+      "cmyk": {
+        "c": 50,
+        "m": 21,
+        "y": 0,
+        "k": 34
+      },
+      "colorTempKelvin": null,
+      "popular": true
+    },
+    {
+      "id": 166,
+      "name": "Fire",
+      "category": "Gel-Farbe",
+      "hex": "#ED1E24",
+      "rgb": {
+        "r": 237,
+        "g": 30,
+        "b": 36
+      },
+      "rgbw": {
+        "r": 207,
+        "g": 0,
+        "b": 6,
+        "w": 30
+      },
+      "hsl": {
+        "h": 358,
+        "s": 85,
+        "l": 52
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 87,
+        "y": 85,
+        "k": 7
+      },
+      "colorTempKelvin": null,
+      "popular": true
+    },
+    {
+      "id": 167,
+      "name": "Deep Amber",
+      "category": "Gel-Farbe",
+      "hex": "#F38519",
+      "rgb": {
+        "r": 243,
+        "g": 133,
+        "b": 25
+      },
+      "rgbw": {
+        "r": 218,
+        "g": 108,
+        "b": 0,
+        "w": 25
+      },
+      "hsl": {
+        "h": 30,
+        "s": 90,
+        "l": 53
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 45,
+        "y": 90,
+        "k": 5
+      },
+      "colorTempKelvin": null,
+      "popular": true
+    },
+    {
+      "id": 168,
+      "name": "Straw Tint",
+      "category": "Gel-Farbe",
+      "hex": "#FFEFB2",
+      "rgb": {
+        "r": 255,
+        "g": 239,
+        "b": 178
+      },
+      "rgbw": {
+        "r": 77,
+        "g": 61,
+        "b": 0,
+        "w": 178
+      },
+      "hsl": {
+        "h": 48,
+        "s": 100,
+        "l": 85
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 6,
+        "y": 30,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 169,
+      "name": "Surprise Peach",
+      "category": "Gel-Farbe",
+      "hex": "#FFBE96",
+      "rgb": {
+        "r": 255,
+        "g": 190,
+        "b": 150
+      },
+      "rgbw": {
+        "r": 105,
+        "g": 40,
+        "b": 0,
+        "w": 150
+      },
+      "hsl": {
+        "h": 23,
+        "s": 100,
+        "l": 79
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 25,
+        "y": 41,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 170,
+      "name": "No Color Straw",
+      "category": "Gel-Farbe",
+      "hex": "#FFF6D2",
+      "rgb": {
+        "r": 255,
+        "g": 246,
+        "b": 210
+      },
+      "rgbw": {
+        "r": 45,
+        "g": 36,
+        "b": 0,
+        "w": 210
+      },
+      "hsl": {
+        "h": 48,
+        "s": 100,
+        "l": 91
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 4,
+        "y": 18,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 171,
+      "name": "Rose Pink",
+      "category": "Gel-Farbe",
+      "hex": "#FFA5C8",
+      "rgb": {
+        "r": 255,
+        "g": 165,
+        "b": 200
+      },
+      "rgbw": {
+        "r": 90,
+        "g": 0,
+        "b": 35,
+        "w": 165
+      },
+      "hsl": {
+        "h": 337,
+        "s": 100,
+        "l": 82
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 35,
+        "y": 22,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 172,
+      "name": "Special Lavender",
+      "category": "Gel-Farbe",
+      "hex": "#C7B2E0",
+      "rgb": {
+        "r": 199,
+        "g": 178,
+        "b": 224
+      },
+      "rgbw": {
+        "r": 21,
+        "g": 0,
+        "b": 46,
+        "w": 178
+      },
+      "hsl": {
+        "h": 267,
+        "s": 43,
+        "l": 79
+      },
+      "cmyk": {
+        "c": 11,
+        "m": 21,
+        "y": 0,
+        "k": 12
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 173,
+      "name": "Moonlight Blue",
+      "category": "Gel-Farbe",
+      "hex": "#6A91C5",
+      "rgb": {
+        "r": 106,
+        "g": 145,
+        "b": 197
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 39,
+        "b": 91,
+        "w": 106
+      },
+      "hsl": {
+        "h": 214,
+        "s": 44,
+        "l": 59
+      },
+      "cmyk": {
+        "c": 46,
+        "m": 26,
+        "y": 0,
+        "k": 23
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 174,
+      "name": "Dark Blue Green",
+      "category": "Gel-Farbe",
+      "hex": "#006F6C",
+      "rgb": {
+        "r": 0,
+        "g": 111,
+        "b": 108
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 111,
+        "b": 108,
+        "w": 0
+      },
+      "hsl": {
+        "h": 178,
+        "s": 100,
+        "l": 22
+      },
+      "cmyk": {
+        "c": 100,
+        "m": 0,
+        "y": 3,
+        "k": 56
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 175,
+      "name": "Chrome Orange",
+      "category": "Gel-Farbe",
+      "hex": "#FF7420",
+      "rgb": {
+        "r": 255,
+        "g": 116,
+        "b": 32
+      },
+      "rgbw": {
+        "r": 223,
+        "g": 84,
+        "b": 0,
+        "w": 32
+      },
+      "hsl": {
+        "h": 23,
+        "s": 100,
+        "l": 56
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 55,
+        "y": 87,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 176,
+      "name": "Golden Amber",
+      "category": "Gel-Farbe",
+      "hex": "#FDB42D",
+      "rgb": {
+        "r": 253,
+        "g": 180,
+        "b": 45
+      },
+      "rgbw": {
+        "r": 208,
+        "g": 135,
+        "b": 0,
+        "w": 45
+      },
+      "hsl": {
+        "h": 39,
+        "s": 98,
+        "l": 58
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 29,
+        "y": 82,
+        "k": 1
+      },
+      "colorTempKelvin": null,
+      "popular": true
+    },
+    {
+      "id": 177,
+      "name": "Zenith Blue",
+      "category": "Gel-Farbe",
+      "hex": "#19559E",
+      "rgb": {
+        "r": 25,
+        "g": 85,
+        "b": 158
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 60,
+        "b": 133,
+        "w": 25
+      },
+      "hsl": {
+        "h": 213,
+        "s": 73,
+        "l": 36
+      },
+      "cmyk": {
+        "c": 84,
+        "m": 46,
+        "y": 0,
+        "k": 38
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 178,
+      "name": "Storaro Blue",
+      "category": "Gel-Farbe",
+      "hex": "#004C97",
+      "rgb": {
+        "r": 0,
+        "g": 76,
+        "b": 151
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 76,
+        "b": 151,
+        "w": 0
+      },
+      "hsl": {
+        "h": 210,
+        "s": 100,
+        "l": 30
+      },
+      "cmyk": {
+        "c": 100,
+        "m": 50,
+        "y": 0,
+        "k": 41
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 179,
+      "name": "Fuchsia Pink",
+      "category": "Gel-Farbe",
+      "hex": "#D9268F",
+      "rgb": {
+        "r": 217,
+        "g": 38,
+        "b": 143
+      },
+      "rgbw": {
+        "r": 179,
+        "g": 0,
+        "b": 105,
+        "w": 38
+      },
+      "hsl": {
+        "h": 325,
+        "s": 70,
+        "l": 50
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 82,
+        "y": 34,
+        "k": 15
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 180,
+      "name": "Dark Green",
+      "category": "Gel-Farbe",
+      "hex": "#005C3E",
+      "rgb": {
+        "r": 0,
+        "g": 92,
+        "b": 62
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 92,
+        "b": 62,
+        "w": 0
+      },
+      "hsl": {
+        "h": 160,
+        "s": 100,
+        "l": 18
+      },
+      "cmyk": {
+        "c": 100,
+        "m": 0,
+        "y": 33,
+        "k": 64
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 181,
+      "name": "Primary Red",
+      "category": "Gel-Farbe",
+      "hex": "#DA182E",
+      "rgb": {
+        "r": 218,
+        "g": 24,
+        "b": 46
+      },
+      "rgbw": {
+        "r": 194,
+        "g": 0,
+        "b": 22,
+        "w": 24
+      },
+      "hsl": {
+        "h": 353,
+        "s": 80,
+        "l": 47
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 89,
+        "y": 79,
+        "k": 15
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 182,
+      "name": "Primary Blue",
+      "category": "Gel-Farbe",
+      "hex": "#004294",
+      "rgb": {
+        "r": 0,
+        "g": 66,
+        "b": 148
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 66,
+        "b": 148,
+        "w": 0
+      },
+      "hsl": {
+        "h": 213,
+        "s": 100,
+        "l": 29
+      },
+      "cmyk": {
+        "c": 100,
+        "m": 55,
+        "y": 0,
+        "k": 42
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 183,
+      "name": "Primary Green",
+      "category": "Gel-Farbe",
+      "hex": "#00854A",
+      "rgb": {
+        "r": 0,
+        "g": 133,
+        "b": 74
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 133,
+        "b": 74,
+        "w": 0
+      },
+      "hsl": {
+        "h": 153,
+        "s": 100,
+        "l": 26
+      },
+      "cmyk": {
+        "c": 100,
+        "m": 0,
+        "y": 44,
+        "k": 48
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 184,
+      "name": "Deep Lavender",
+      "category": "Gel-Farbe",
+      "hex": "#764E90",
+      "rgb": {
+        "r": 118,
+        "g": 78,
+        "b": 144
+      },
+      "rgbw": {
+        "r": 40,
+        "g": 0,
+        "b": 66,
+        "w": 78
+      },
+      "hsl": {
+        "h": 276,
+        "s": 30,
+        "l": 44
+      },
+      "cmyk": {
+        "c": 18,
+        "m": 46,
+        "y": 0,
+        "k": 44
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 185,
+      "name": "Peacock Blue",
+      "category": "Gel-Farbe",
+      "hex": "#00798C",
+      "rgb": {
+        "r": 0,
+        "g": 121,
+        "b": 140
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 121,
+        "b": 140,
+        "w": 0
+      },
+      "hsl": {
+        "h": 188,
+        "s": 100,
+        "l": 27
+      },
+      "cmyk": {
+        "c": 100,
+        "m": 14,
+        "y": 0,
+        "k": 45
+      },
+      "colorTempKelvin": null,
+      "popular": true
+    },
+    {
+      "id": 186,
+      "name": "Flame Red",
+      "category": "Gel-Farbe",
+      "hex": "#DE281E",
+      "rgb": {
+        "r": 222,
+        "g": 40,
+        "b": 30
+      },
+      "rgbw": {
+        "r": 192,
+        "g": 10,
+        "b": 0,
+        "w": 30
+      },
+      "hsl": {
+        "h": 3,
+        "s": 76,
+        "l": 49
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 82,
+        "y": 86,
+        "k": 13
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 187,
+      "name": "Tangerine",
+      "category": "Gel-Farbe",
+      "hex": "#FF7414",
+      "rgb": {
+        "r": 255,
+        "g": 116,
+        "b": 20
+      },
+      "rgbw": {
+        "r": 235,
+        "g": 96,
+        "b": 0,
+        "w": 20
+      },
+      "hsl": {
+        "h": 25,
+        "s": 100,
+        "l": 54
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 55,
+        "y": 92,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 188,
+      "name": "Canary Yellow",
+      "category": "Gel-Farbe",
+      "hex": "#FFE020",
+      "rgb": {
+        "r": 255,
+        "g": 224,
+        "b": 32
+      },
+      "rgbw": {
+        "r": 223,
+        "g": 192,
+        "b": 0,
+        "w": 32
+      },
+      "hsl": {
+        "h": 52,
+        "s": 100,
+        "l": 56
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 12,
+        "y": 87,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 189,
+      "name": "Pea Green",
+      "category": "Gel-Farbe",
+      "hex": "#8FBA3C",
+      "rgb": {
+        "r": 143,
+        "g": 186,
+        "b": 60
+      },
+      "rgbw": {
+        "r": 83,
+        "g": 126,
+        "b": 0,
+        "w": 60
+      },
+      "hsl": {
+        "h": 80,
+        "s": 51,
+        "l": 48
+      },
+      "cmyk": {
+        "c": 23,
+        "m": 0,
+        "y": 68,
+        "k": 27
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 190,
+      "name": "Sea Blue",
+      "category": "Gel-Farbe",
+      "hex": "#006982",
+      "rgb": {
+        "r": 0,
+        "g": 105,
+        "b": 130
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 105,
+        "b": 130,
+        "w": 0
+      },
+      "hsl": {
+        "h": 192,
+        "s": 100,
+        "l": 25
+      },
+      "cmyk": {
+        "c": 100,
+        "m": 19,
+        "y": 0,
+        "k": 49
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 191,
+      "name": "Royal Purple",
+      "category": "Gel-Farbe",
+      "hex": "#5A187A",
+      "rgb": {
+        "r": 90,
+        "g": 24,
+        "b": 122
+      },
+      "rgbw": {
+        "r": 66,
+        "g": 0,
+        "b": 98,
+        "w": 24
+      },
+      "hsl": {
+        "h": 280,
+        "s": 67,
+        "l": 29
+      },
+      "cmyk": {
+        "c": 26,
+        "m": 80,
+        "y": 0,
+        "k": 52
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 192,
+      "name": "Hot Magenta",
+      "category": "Gel-Farbe",
+      "hex": "#EC008C",
+      "rgb": {
+        "r": 236,
+        "g": 0,
+        "b": 140
+      },
+      "rgbw": {
+        "r": 236,
+        "g": 0,
+        "b": 140,
+        "w": 0
+      },
+      "hsl": {
+        "h": 324,
+        "s": 100,
+        "l": 46
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 100,
+        "y": 41,
+        "k": 7
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 193,
+      "name": "UV Violett",
+      "category": "Bühnenspezial",
+      "hex": "#8A2BE2",
+      "rgb": {
+        "r": 138,
+        "g": 43,
+        "b": 226
+      },
+      "rgbw": {
+        "r": 95,
+        "g": 0,
+        "b": 183,
+        "w": 43
+      },
+      "hsl": {
+        "h": 271,
+        "s": 76,
+        "l": 53
+      },
+      "cmyk": {
+        "c": 39,
+        "m": 81,
+        "y": 0,
+        "k": 11
+      },
+      "colorTempKelvin": null,
+      "popular": true
+    },
+    {
+      "id": 194,
+      "name": "Blacklight Purple",
+      "category": "Bühnenspezial",
+      "hex": "#6600CC",
+      "rgb": {
+        "r": 102,
+        "g": 0,
+        "b": 204
+      },
+      "rgbw": {
+        "r": 102,
+        "g": 0,
+        "b": 204,
+        "w": 0
+      },
+      "hsl": {
+        "h": 270,
+        "s": 100,
+        "l": 40
+      },
+      "cmyk": {
+        "c": 50,
+        "m": 100,
+        "y": 0,
+        "k": 20
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 195,
+      "name": "Laser Grün",
+      "category": "Bühnenspezial",
+      "hex": "#39FF14",
+      "rgb": {
+        "r": 57,
+        "g": 255,
+        "b": 20
+      },
+      "rgbw": {
+        "r": 37,
+        "g": 235,
+        "b": 0,
+        "w": 20
+      },
+      "hsl": {
+        "h": 111,
+        "s": 100,
+        "l": 54
+      },
+      "cmyk": {
+        "c": 78,
+        "m": 0,
+        "y": 92,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 196,
+      "name": "Laser Rot",
+      "category": "Bühnenspezial",
+      "hex": "#FF0707",
+      "rgb": {
+        "r": 255,
+        "g": 7,
+        "b": 7
+      },
+      "rgbw": {
+        "r": 248,
+        "g": 0,
+        "b": 0,
+        "w": 7
+      },
+      "hsl": {
+        "h": 0,
+        "s": 100,
+        "l": 51
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 97,
+        "y": 97,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 197,
+      "name": "Plasma Blau",
+      "category": "Bühnenspezial",
+      "hex": "#1482FF",
+      "rgb": {
+        "r": 20,
+        "g": 130,
+        "b": 255
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 110,
+        "b": 235,
+        "w": 20
+      },
+      "hsl": {
+        "h": 212,
+        "s": 100,
+        "l": 54
+      },
+      "cmyk": {
+        "c": 92,
+        "m": 49,
+        "y": 0,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 198,
+      "name": "Stroboskop Weiß",
+      "category": "Bühnenspezial",
+      "hex": "#FFFFFF",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "w": 255
+      },
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 100
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 0,
+        "y": 0,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 199,
+      "name": "Neon Pink",
+      "category": "Bühnenspezial",
+      "hex": "#FF10F0",
+      "rgb": {
+        "r": 255,
+        "g": 16,
+        "b": 240
+      },
+      "rgbw": {
+        "r": 239,
+        "g": 0,
+        "b": 224,
+        "w": 16
+      },
+      "hsl": {
+        "h": 304,
+        "s": 100,
+        "l": 53
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 94,
+        "y": 6,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 200,
+      "name": "Neon Grün",
+      "category": "Bühnenspezial",
+      "hex": "#39FF20",
+      "rgb": {
+        "r": 57,
+        "g": 255,
+        "b": 32
+      },
+      "rgbw": {
+        "r": 25,
+        "g": 223,
+        "b": 0,
+        "w": 32
+      },
+      "hsl": {
+        "h": 113,
+        "s": 100,
+        "l": 56
+      },
+      "cmyk": {
+        "c": 78,
+        "m": 0,
+        "y": 87,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 201,
+      "name": "Neon Orange",
+      "category": "Bühnenspezial",
+      "hex": "#FF5F1F",
+      "rgb": {
+        "r": 255,
+        "g": 95,
+        "b": 31
+      },
+      "rgbw": {
+        "r": 224,
+        "g": 64,
+        "b": 0,
+        "w": 31
+      },
+      "hsl": {
+        "h": 17,
+        "s": 100,
+        "l": 56
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 63,
+        "y": 88,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 202,
+      "name": "Neon Gelb",
+      "category": "Bühnenspezial",
+      "hex": "#F5FF14",
+      "rgb": {
+        "r": 245,
+        "g": 255,
+        "b": 20
+      },
+      "rgbw": {
+        "r": 225,
+        "g": 235,
+        "b": 0,
+        "w": 20
+      },
+      "hsl": {
+        "h": 63,
+        "s": 100,
+        "l": 54
+      },
+      "cmyk": {
+        "c": 4,
+        "m": 0,
+        "y": 92,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 203,
+      "name": "Electric Blue",
+      "category": "Bühnenspezial",
+      "hex": "#0096FF",
+      "rgb": {
+        "r": 0,
+        "g": 150,
+        "b": 255
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 150,
+        "b": 255,
+        "w": 0
+      },
+      "hsl": {
+        "h": 205,
+        "s": 100,
+        "l": 50
+      },
+      "cmyk": {
+        "c": 100,
+        "m": 41,
+        "y": 0,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 204,
+      "name": "Acid Green",
+      "category": "Bühnenspezial",
+      "hex": "#B0FF00",
+      "rgb": {
+        "r": 176,
+        "g": 255,
+        "b": 0
+      },
+      "rgbw": {
+        "r": 176,
+        "g": 255,
+        "b": 0,
+        "w": 0
+      },
+      "hsl": {
+        "h": 79,
+        "s": 100,
+        "l": 50
+      },
+      "cmyk": {
+        "c": 31,
+        "m": 0,
+        "y": 100,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 205,
+      "name": "Cyber Magenta",
+      "category": "Bühnenspezial",
+      "hex": "#FF00AA",
+      "rgb": {
+        "r": 255,
+        "g": 0,
+        "b": 170
+      },
+      "rgbw": {
+        "r": 255,
+        "g": 0,
+        "b": 170,
+        "w": 0
+      },
+      "hsl": {
+        "h": 320,
+        "s": 100,
+        "l": 50
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 100,
+        "y": 33,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 206,
+      "name": "Toxic Green",
+      "category": "Bühnenspezial",
+      "hex": "#80FF00",
+      "rgb": {
+        "r": 128,
+        "g": 255,
+        "b": 0
+      },
+      "rgbw": {
+        "r": 128,
+        "g": 255,
+        "b": 0,
+        "w": 0
+      },
+      "hsl": {
+        "h": 90,
+        "s": 100,
+        "l": 50
+      },
+      "cmyk": {
+        "c": 50,
+        "m": 0,
+        "y": 100,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 207,
+      "name": "Deep Space Blau",
+      "category": "Bühnenspezial",
+      "hex": "#0A0A3C",
+      "rgb": {
+        "r": 10,
+        "g": 10,
+        "b": 60
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 0,
+        "b": 50,
+        "w": 10
+      },
+      "hsl": {
+        "h": 240,
+        "s": 71,
+        "l": 14
+      },
+      "cmyk": {
+        "c": 83,
+        "m": 83,
+        "y": 0,
+        "k": 76
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 208,
+      "name": "Feuerlicht",
+      "category": "Bühnenspezial",
+      "hex": "#FF4500",
+      "rgb": {
+        "r": 255,
+        "g": 69,
+        "b": 0
+      },
+      "rgbw": {
+        "r": 255,
+        "g": 69,
+        "b": 0,
+        "w": 0
+      },
+      "hsl": {
+        "h": 16,
+        "s": 100,
+        "l": 50
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 73,
+        "y": 100,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 209,
+      "name": "Eisfeuer",
+      "category": "Bühnenspezial",
+      "hex": "#B4FFFA",
+      "rgb": {
+        "r": 180,
+        "g": 255,
+        "b": 250
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 75,
+        "b": 70,
+        "w": 180
+      },
+      "hsl": {
+        "h": 176,
+        "s": 100,
+        "l": 85
+      },
+      "cmyk": {
+        "c": 29,
+        "m": 0,
+        "y": 2,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 210,
+      "name": "Vulkan Rot",
+      "category": "Bühnenspezial",
+      "hex": "#BE140A",
+      "rgb": {
+        "r": 190,
+        "g": 20,
+        "b": 10
+      },
+      "rgbw": {
+        "r": 180,
+        "g": 10,
+        "b": 0,
+        "w": 10
+      },
+      "hsl": {
+        "h": 3,
+        "s": 90,
+        "l": 39
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 89,
+        "y": 95,
+        "k": 25
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 211,
+      "name": "Galaxie Violett",
+      "category": "Bühnenspezial",
+      "hex": "#4B0082",
+      "rgb": {
+        "r": 75,
+        "g": 0,
+        "b": 130
+      },
+      "rgbw": {
+        "r": 75,
+        "g": 0,
+        "b": 130,
+        "w": 0
+      },
+      "hsl": {
+        "h": 275,
+        "s": 100,
+        "l": 25
+      },
+      "cmyk": {
+        "c": 42,
+        "m": 100,
+        "y": 0,
+        "k": 49
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 212,
+      "name": "Sonnenaufgang",
+      "category": "Bühnenspezial",
+      "hex": "#FF934F",
+      "rgb": {
+        "r": 255,
+        "g": 147,
+        "b": 79
+      },
+      "rgbw": {
+        "r": 176,
+        "g": 68,
+        "b": 0,
+        "w": 79
+      },
+      "hsl": {
+        "h": 23,
+        "s": 100,
+        "l": 65
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 42,
+        "y": 69,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 213,
+      "name": "Hauttöne Hell 1",
+      "category": "Hauttöne",
+      "hex": "#FFE0C4",
+      "rgb": {
+        "r": 255,
+        "g": 224,
+        "b": 196
+      },
+      "rgbw": {
+        "r": 59,
+        "g": 28,
+        "b": 0,
+        "w": 196
+      },
+      "hsl": {
+        "h": 28,
+        "s": 100,
+        "l": 88
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 12,
+        "y": 23,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 214,
+      "name": "Hauttöne Hell 2",
+      "category": "Hauttöne",
+      "hex": "#FFD5B2",
+      "rgb": {
+        "r": 255,
+        "g": 213,
+        "b": 178
+      },
+      "rgbw": {
+        "r": 77,
+        "g": 35,
+        "b": 0,
+        "w": 178
+      },
+      "hsl": {
+        "h": 27,
+        "s": 100,
+        "l": 85
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 16,
+        "y": 30,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 215,
+      "name": "Hauttöne Mittel 1",
+      "category": "Hauttöne",
+      "hex": "#EAC096",
+      "rgb": {
+        "r": 234,
+        "g": 192,
+        "b": 150
+      },
+      "rgbw": {
+        "r": 84,
+        "g": 42,
+        "b": 0,
+        "w": 150
+      },
+      "hsl": {
+        "h": 30,
+        "s": 67,
+        "l": 75
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 18,
+        "y": 36,
+        "k": 8
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 216,
+      "name": "Hauttöne Mittel 2",
+      "category": "Hauttöne",
+      "hex": "#D1A375",
+      "rgb": {
+        "r": 209,
+        "g": 163,
+        "b": 117
+      },
+      "rgbw": {
+        "r": 92,
+        "g": 46,
+        "b": 0,
+        "w": 117
+      },
+      "hsl": {
+        "h": 30,
+        "s": 50,
+        "l": 64
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 22,
+        "y": 44,
+        "k": 18
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 217,
+      "name": "Hauttöne Warm 1",
+      "category": "Hauttöne",
+      "hex": "#C68642",
+      "rgb": {
+        "r": 198,
+        "g": 134,
+        "b": 66
+      },
+      "rgbw": {
+        "r": 132,
+        "g": 68,
+        "b": 0,
+        "w": 66
+      },
+      "hsl": {
+        "h": 31,
+        "s": 54,
+        "l": 52
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 32,
+        "y": 67,
+        "k": 22
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 218,
+      "name": "Hauttöne Warm 2",
+      "category": "Hauttöne",
+      "hex": "#A1665E",
+      "rgb": {
+        "r": 161,
+        "g": 102,
+        "b": 94
+      },
+      "rgbw": {
+        "r": 67,
+        "g": 8,
+        "b": 0,
+        "w": 94
+      },
+      "hsl": {
+        "h": 7,
+        "s": 26,
+        "l": 50
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 37,
+        "y": 42,
+        "k": 37
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 219,
+      "name": "Hauttöne Dunkel 1",
+      "category": "Hauttöne",
+      "hex": "#8D5524",
+      "rgb": {
+        "r": 141,
+        "g": 85,
+        "b": 36
+      },
+      "rgbw": {
+        "r": 105,
+        "g": 49,
+        "b": 0,
+        "w": 36
+      },
+      "hsl": {
+        "h": 28,
+        "s": 59,
+        "l": 35
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 40,
+        "y": 74,
+        "k": 45
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 220,
+      "name": "Hauttöne Dunkel 2",
+      "category": "Hauttöne",
+      "hex": "#5C3317",
+      "rgb": {
+        "r": 92,
+        "g": 51,
+        "b": 23
+      },
+      "rgbw": {
+        "r": 69,
+        "g": 28,
+        "b": 0,
+        "w": 23
+      },
+      "hsl": {
+        "h": 24,
+        "s": 60,
+        "l": 23
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 45,
+        "y": 75,
+        "k": 64
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 221,
+      "name": "Bronzeton",
+      "category": "Hauttöne",
+      "hex": "#CD7F32",
+      "rgb": {
+        "r": 205,
+        "g": 127,
+        "b": 50
+      },
+      "rgbw": {
+        "r": 155,
+        "g": 77,
+        "b": 0,
+        "w": 50
+      },
+      "hsl": {
+        "h": 30,
+        "s": 61,
+        "l": 50
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 38,
+        "y": 76,
+        "k": 20
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 222,
+      "name": "Terracotta",
+      "category": "Hauttöne",
+      "hex": "#CC4E5C",
+      "rgb": {
+        "r": 204,
+        "g": 78,
+        "b": 92
+      },
+      "rgbw": {
+        "r": 126,
+        "g": 0,
+        "b": 14,
+        "w": 78
+      },
+      "hsl": {
+        "h": 353,
+        "s": 55,
+        "l": 55
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 62,
+        "y": 55,
+        "k": 20
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 223,
+      "name": "Reinweiß",
+      "category": "Grautöne",
+      "hex": "#FFFFFF",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "w": 255
+      },
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 100
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 0,
+        "y": 0,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": true
+    },
+    {
+      "id": 224,
+      "name": "Silberweiß",
+      "category": "Grautöne",
+      "hex": "#F0F0F0",
+      "rgb": {
+        "r": 240,
+        "g": 240,
+        "b": 240
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "w": 240
+      },
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 94
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 0,
+        "y": 0,
+        "k": 6
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 225,
+      "name": "Hellgrau",
+      "category": "Grautöne",
+      "hex": "#D2D2D2",
+      "rgb": {
+        "r": 210,
+        "g": 210,
+        "b": 210
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "w": 210
+      },
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 82
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 0,
+        "y": 0,
+        "k": 18
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 226,
+      "name": "Grau",
+      "category": "Grautöne",
+      "hex": "#AAAAAA",
+      "rgb": {
+        "r": 170,
+        "g": 170,
+        "b": 170
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "w": 170
+      },
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 67
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 0,
+        "y": 0,
+        "k": 33
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 227,
+      "name": "Mittelgrau",
+      "category": "Grautöne",
+      "hex": "#808080",
+      "rgb": {
+        "r": 128,
+        "g": 128,
+        "b": 128
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "w": 128
+      },
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 50
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 0,
+        "y": 0,
+        "k": 50
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 228,
+      "name": "Dunkelgrau",
+      "category": "Grautöne",
+      "hex": "#5A5A5A",
+      "rgb": {
+        "r": 90,
+        "g": 90,
+        "b": 90
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "w": 90
+      },
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 35
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 0,
+        "y": 0,
+        "k": 65
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 229,
+      "name": "Anthrazit",
+      "category": "Grautöne",
+      "hex": "#373737",
+      "rgb": {
+        "r": 55,
+        "g": 55,
+        "b": 55
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "w": 55
+      },
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 22
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 0,
+        "y": 0,
+        "k": 78
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 230,
+      "name": "Tiefschwarz",
+      "category": "Grautöne",
+      "hex": "#0F0F0F",
+      "rgb": {
+        "r": 15,
+        "g": 15,
+        "b": 15
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "w": 15
+      },
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 6
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 0,
+        "y": 0,
+        "k": 94
+      },
+      "colorTempKelvin": null,
+      "popular": true
+    },
+    {
+      "id": 231,
+      "name": "Absolutschwarz (Bühne aus)",
+      "category": "Grautöne",
+      "hex": "#000000",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "w": 0
+      },
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 0,
+        "y": 0,
+        "k": 100
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 232,
+      "name": "Waldgrün",
+      "category": "Naturtöne",
+      "hex": "#225926",
+      "rgb": {
+        "r": 34,
+        "g": 89,
+        "b": 38
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 55,
+        "b": 4,
+        "w": 34
+      },
+      "hsl": {
+        "h": 124,
+        "s": 45,
+        "l": 24
+      },
+      "cmyk": {
+        "c": 62,
+        "m": 0,
+        "y": 57,
+        "k": 65
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 233,
+      "name": "Moosgrün",
+      "category": "Naturtöne",
+      "hex": "#52662E",
+      "rgb": {
+        "r": 82,
+        "g": 102,
+        "b": 46
+      },
+      "rgbw": {
+        "r": 36,
+        "g": 56,
+        "b": 0,
+        "w": 46
+      },
+      "hsl": {
+        "h": 81,
+        "s": 38,
+        "l": 29
+      },
+      "cmyk": {
+        "c": 20,
+        "m": 0,
+        "y": 55,
+        "k": 60
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 234,
+      "name": "Olivgrün",
+      "category": "Naturtöne",
+      "hex": "#808000",
+      "rgb": {
+        "r": 128,
+        "g": 128,
+        "b": 0
+      },
+      "rgbw": {
+        "r": 128,
+        "g": 128,
+        "b": 0,
+        "w": 0
+      },
+      "hsl": {
+        "h": 60,
+        "s": 100,
+        "l": 25
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 0,
+        "y": 100,
+        "k": 50
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 235,
+      "name": "Himmelsblau Tag",
+      "category": "Naturtöne",
+      "hex": "#87CEEB",
+      "rgb": {
+        "r": 135,
+        "g": 206,
+        "b": 235
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 71,
+        "b": 100,
+        "w": 135
+      },
+      "hsl": {
+        "h": 197,
+        "s": 71,
+        "l": 73
+      },
+      "cmyk": {
+        "c": 43,
+        "m": 12,
+        "y": 0,
+        "k": 8
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 236,
+      "name": "Ozeanblau",
+      "category": "Naturtöne",
+      "hex": "#006994",
+      "rgb": {
+        "r": 0,
+        "g": 105,
+        "b": 148
+      },
+      "rgbw": {
+        "r": 0,
+        "g": 105,
+        "b": 148,
+        "w": 0
+      },
+      "hsl": {
+        "h": 197,
+        "s": 100,
+        "l": 29
+      },
+      "cmyk": {
+        "c": 100,
+        "m": 29,
+        "y": 0,
+        "k": 42
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 237,
+      "name": "Sandbeige",
+      "category": "Naturtöne",
+      "hex": "#EDC9AF",
+      "rgb": {
+        "r": 237,
+        "g": 201,
+        "b": 175
+      },
+      "rgbw": {
+        "r": 62,
+        "g": 26,
+        "b": 0,
+        "w": 175
+      },
+      "hsl": {
+        "h": 25,
+        "s": 63,
+        "l": 81
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 15,
+        "y": 26,
+        "k": 7
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 238,
+      "name": "Wüstensand",
+      "category": "Naturtöne",
+      "hex": "#EDB287",
+      "rgb": {
+        "r": 237,
+        "g": 178,
+        "b": 135
+      },
+      "rgbw": {
+        "r": 102,
+        "g": 43,
+        "b": 0,
+        "w": 135
+      },
+      "hsl": {
+        "h": 25,
+        "s": 74,
+        "l": 73
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 25,
+        "y": 43,
+        "k": 7
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 239,
+      "name": "Herbstlaub",
+      "category": "Naturtöne",
+      "hex": "#BF5700",
+      "rgb": {
+        "r": 191,
+        "g": 87,
+        "b": 0
+      },
+      "rgbw": {
+        "r": 191,
+        "g": 87,
+        "b": 0,
+        "w": 0
+      },
+      "hsl": {
+        "h": 27,
+        "s": 100,
+        "l": 37
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 54,
+        "y": 100,
+        "k": 25
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 240,
+      "name": "Rostrot",
+      "category": "Naturtöne",
+      "hex": "#B7410E",
+      "rgb": {
+        "r": 183,
+        "g": 65,
+        "b": 14
+      },
+      "rgbw": {
+        "r": 169,
+        "g": 51,
+        "b": 0,
+        "w": 14
+      },
+      "hsl": {
+        "h": 18,
+        "s": 86,
+        "l": 39
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 64,
+        "y": 92,
+        "k": 28
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 241,
+      "name": "Lehmbraun",
+      "category": "Naturtöne",
+      "hex": "#82502B",
+      "rgb": {
+        "r": 130,
+        "g": 80,
+        "b": 43
+      },
+      "rgbw": {
+        "r": 87,
+        "g": 37,
+        "b": 0,
+        "w": 43
+      },
+      "hsl": {
+        "h": 26,
+        "s": 50,
+        "l": 34
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 38,
+        "y": 67,
+        "k": 49
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 242,
+      "name": "Korallenrot",
+      "category": "Naturtöne",
+      "hex": "#FF7F50",
+      "rgb": {
+        "r": 255,
+        "g": 127,
+        "b": 80
+      },
+      "rgbw": {
+        "r": 175,
+        "g": 47,
+        "b": 0,
+        "w": 80
+      },
+      "hsl": {
+        "h": 16,
+        "s": 100,
+        "l": 66
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 50,
+        "y": 69,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 243,
+      "name": "Lavendelfeld",
+      "category": "Naturtöne",
+      "hex": "#B57EDC",
+      "rgb": {
+        "r": 181,
+        "g": 126,
+        "b": 220
+      },
+      "rgbw": {
+        "r": 55,
+        "g": 0,
+        "b": 94,
+        "w": 126
+      },
+      "hsl": {
+        "h": 275,
+        "s": 57,
+        "l": 68
+      },
+      "cmyk": {
+        "c": 18,
+        "m": 43,
+        "y": 0,
+        "k": 14
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 244,
+      "name": "Frühlingsblüte",
+      "category": "Naturtöne",
+      "hex": "#FFB7C5",
+      "rgb": {
+        "r": 255,
+        "g": 183,
+        "b": 197
+      },
+      "rgbw": {
+        "r": 72,
+        "g": 0,
+        "b": 14,
+        "w": 183
+      },
+      "hsl": {
+        "h": 348,
+        "s": 100,
+        "l": 86
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 28,
+        "y": 23,
+        "k": 0
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 245,
+      "name": "Weinrot",
+      "category": "Naturtöne",
+      "hex": "#722F37",
+      "rgb": {
+        "r": 114,
+        "g": 47,
+        "b": 55
+      },
+      "rgbw": {
+        "r": 67,
+        "g": 0,
+        "b": 8,
+        "w": 47
+      },
+      "hsl": {
+        "h": 353,
+        "s": 42,
+        "l": 32
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 59,
+        "y": 52,
+        "k": 55
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    },
+    {
+      "id": 246,
+      "name": "Mahagoni",
+      "category": "Naturtöne",
+      "hex": "#592317",
+      "rgb": {
+        "r": 89,
+        "g": 35,
+        "b": 23
+      },
+      "rgbw": {
+        "r": 66,
+        "g": 12,
+        "b": 0,
+        "w": 23
+      },
+      "hsl": {
+        "h": 11,
+        "s": 59,
+        "l": 22
+      },
+      "cmyk": {
+        "c": 0,
+        "m": 61,
+        "y": 74,
+        "k": 65
+      },
+      "colorTempKelvin": null,
+      "popular": false
+    }
+  ]
+}
