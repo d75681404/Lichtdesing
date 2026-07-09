@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+<title>LichtFarben Pro — Farbdatenbank &amp; Lichttechnik-Werkzeug</title>
+
+<!-- App-artiges Verhalten auf iPad/iPhone, wenn zum Home-Bildschirm hinzugefügt -->
+<link rel="manifest" href="manifest.json">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="LichtFarben">
+<meta name="theme-color" content="#0a0a0f">
+<link rel="apple-touch-icon" href="icon-180.png">
+<link rel="icon" type="image/png" sizes="192x192" href="icon-192.png">
+
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- ============================= HEADER ============================= -->
+<header class="app-header">
+  <div class="header-left">
+    <div class="logo">
+      <span class="logo-dot"></span>
+      <h1>LichtFarben <span>Pro</span></h1>
+    </div>
+    <p class="subtitle">Farbdatenbank &amp; Lichttechnik-Werkzeug für Bühne &amp; Studio</p>
+  </div>
+  <div class="header-right">
+    <button class="icon-btn" id="btnHistory" title="Farbhistorie">🕘</button>
+    <button class="icon-btn" id="btnFavoritesTop" title="Favoriten">⭐</button>
+  </div>
+</header>
+
+<!-- ============================= NAV ============================= -->
+<nav class="tab-nav" id="tabNav">
+  <button class="tab-btn active" data-tab="datenbank">🎨 Datenbank</button>
+  <button class="tab-btn" data-tab="vergleich">⚖️ Vergleich</button>
+  <button class="tab-btn" data-tab="lichttechnik">💡 Lichttechnik</button>
+  <button class="tab-btn" data-tab="buehne">🎭 Bühnenvorschau</button>
+  <button class="tab-btn" data-tab="favoriten">⭐ Favoriten</button>
+  <button class="tab-btn" data-tab="extras">✨ Extras</button>
+</nav>
+
+<main class="app-main">
+
+  <!-- ============================= TAB: DATENBANK ============================= -->
+  <section class="tab-panel active" id="tab-datenbank">
+    <div class="panel-card search-card">
+      <div class="search-row">
+        <input type="search" id="searchInput" placeholder="Suche nach Name, RGB, HEX oder Kategorie…" autocomplete="off">
+        <select id="categoryFilter">
+          <option value="">Alle Kategorien</option>
+        </select>
+        <span class="result-count" id="resultCount"></span>
+      </div>
+    </div>
+    <div class="color-grid" id="colorGrid"></div>
+  </section>
+
+  <!-- ============================= TAB: VERGLEICH ============================= -->
+  <section class="tab-panel" id="tab-vergleich">
+    <div class="compare-grid">
+      <div class="panel-card">
+        <h2>Farbe A</h2>
+        <div class="swatch-large" id="swatchA"></div>
+        <input type="text" id="compareSearchA" placeholder="Farbe A suchen…" class="mini-search">
+        <div class="mini-list" id="listA"></div>
+      </div>
+      <div class="panel-card">
+        <h2>Farbe B</h2>
+        <div class="swatch-large" id="swatchB"></div>
+        <input type="text" id="compareSearchB" placeholder="Farbe B suchen…" class="mini-search">
+        <div class="mini-list" id="listB"></div>
+      </div>
+    </div>
+
+    <div class="panel-card">
+      <h2>Analyse</h2>
+      <div class="analysis-grid" id="analysisGrid"></div>
+    </div>
+
+    <div class="panel-card">
+      <h2>Farbharmonien (Basis: Farbe A)</h2>
+      <div class="harmony-grid" id="harmonyGrid"></div>
+    </div>
+  </section>
+
+  <!-- ============================= TAB: LICHTTECHNIK ============================= -->
+  <section class="tab-panel" id="tab-lichttechnik">
+    <div class="panel-card">
+      <h2>RGB → RGBW Rechner</h2>
+      <div class="lt-grid">
+        <div class="lt-controls">
+          <label>Rot (R) <input type="range" id="ltR" min="0" max="255" value="255"><span id="ltRVal">255</span></label>
+          <label>Grün (G) <input type="range" id="ltG" min="0" max="255" value="120"><span id="ltGVal">120</span></label>
+          <label>Blau (B) <input type="range" id="ltB" min="0" max="255" value="60"><span id="ltBVal">60</span></label>
+        </div>
+        <div class="lt-preview">
+          <div class="swatch-large" id="ltSwatchRGB"></div>
+          <p class="lt-label">RGB Eingabe</p>
+          <div class="lt-output" id="ltOutputRGBW"></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="panel-card">
+      <h2>Live-Regler (Bühnenkanal)</h2>
+      <div class="lt-grid">
+        <div class="lt-controls">
+          <label>Helligkeit (Brightness) <input type="range" id="ctrlBrightness" min="0" max="100" value="100"><span id="ctrlBrightnessVal">100%</span></label>
+          <label>Sättigung (Saturation) <input type="range" id="ctrlSaturation" min="0" max="100" value="100"><span id="ctrlSaturationVal">100%</span></label>
+          <label>White-Level <input type="range" id="ctrlWhite" min="0" max="100" value="0"><span id="ctrlWhiteVal">0%</span></label>
+          <label>Dimmer <input type="range" id="ctrlDimmer" min="0" max="100" value="100"><span id="ctrlDimmerVal">100%</span></label>
+        </div>
+        <div class="lt-preview">
+          <div class="swatch-large" id="ctrlSwatch"></div>
+          <p class="lt-label">Ausgangsfarbe (Basis: aktuelle Auswahl)</p>
+          <div class="lt-output" id="ctrlOutput"></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="panel-card">
+      <h2>Additive Farbmischung</h2>
+      <p class="hint">Wähle bis zu drei Lichtquellen — Ergebnis zeigt die additive Summe (wie bei überlagerten Scheinwerfern).</p>
+      <div class="mix-grid">
+        <div class="mix-source">
+          <input type="color" id="mixColor1" value="#ff0000">
+          <div class="swatch-medium" id="mixSwatch1"></div>
+        </div>
+        <div class="mix-source">
+          <input type="color" id="mixColor2" value="#00ff00">
+          <div class="swatch-medium" id="mixSwatch2"></div>
+        </div>
+        <div class="mix-source">
+          <input type="color" id="mixColor3" value="#0000ff">
+          <div class="swatch-medium" id="mixSwatch3"></div>
+        </div>
+        <div class="mix-result">
+          <span class="mix-plus">=</span>
+          <div class="swatch-large" id="mixResultSwatch"></div>
+          <div class="lt-output" id="mixResultOutput"></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="panel-card">
+      <h2>Farbüberblendung (Crossfade)</h2>
+      <div class="fade-grid">
+        <input type="color" id="fadeColorFrom" value="#ff2d55">
+        <div class="fade-bar" id="fadeBar"></div>
+        <input type="color" id="fadeColorTo" value="#0a84ff">
+      </div>
+      <div class="fade-controls">
+        <label>Position <input type="range" id="fadePosition" min="0" max="100" value="50"><span id="fadePositionVal">50%</span></label>
+        <button class="btn-secondary" id="btnFadePlay">▶ Überblendung abspielen</button>
+      </div>
+      <div class="swatch-large" id="fadeSwatch"></div>
+    </div>
+  </section>
+
+  <!-- ============================= TAB: BÜHNENVORSCHAU ============================= -->
+  <section class="tab-panel" id="tab-buehne">
+    <div class="panel-card">
+      <h2>Bühnenvorschau</h2>
+      <div class="stage-toolbar">
+        <div class="stage-count-select">
+          <label for="movingHeadCount">Anzahl Moving Heads</label>
+          <select id="movingHeadCount">
+            <option value="4">4</option>
+            <option value="8">8</option>
+            <option value="12" selected>12</option>
+            <option value="16">16</option>
+            <option value="24">24</option>
+            <option value="36">36</option>
+          </select>
+        </div>
+        <div class="stage-mode-toggle">
+          <button class="toggle-btn active" data-mode="wash">Wash</button>
+          <button class="toggle-btn" data-mode="beam">Beam</button>
+        </div>
+        <div class="stage-color-select">
+          <label for="stageColor">Farbe</label>
+          <input type="color" id="stageColor" value="#0a84ff">
+        </div>
+        <label class="stage-strobe-toggle">
+          <input type="checkbox" id="stageStrobe"> Strobe
+        </label>
+      </div>
+      <div class="stage-wrapper">
+        <div class="stage-floor" id="stageFloor"></div>
+        <div class="stage" id="stage"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================= TAB: FAVORITEN ============================= -->
+  <section class="tab-panel" id="tab-favoriten">
+    <div class="panel-card">
+      <h2>Gespeicherte Farben</h2>
+      <div class="favorites-toolbar">
+        <button class="btn-secondary" id="btnExportFav">⬇ Exportieren</button>
+        <label class="btn-secondary file-label">⬆ Importieren
+          <input type="file" id="importFavFile" accept="application/json" hidden>
+        </label>
+        <button class="btn-danger" id="btnClearFav">🗑 Alle löschen</button>
+      </div>
+      <div class="color-grid" id="favoritesGrid"></div>
+      <p class="empty-hint" id="favEmptyHint">Noch keine Favoriten gespeichert. Tippe in der Datenbank auf ⭐, um Farben hinzuzufügen.</p>
+    </div>
+
+    <div class="panel-card">
+      <h2>Presets</h2>
+      <div class="preset-create-row">
+        <input type="text" id="presetName" placeholder="Preset-Name (z. B. „Konzert Set 1“)">
+        <button class="btn-primary" id="btnCreatePreset">+ Preset aus Favoriten erstellen</button>
+      </div>
+      <div class="preset-list" id="presetList"></div>
+    </div>
+  </section>
+
+  <!-- ============================= TAB: EXTRAS ============================= -->
+  <section class="tab-panel" id="tab-extras">
+
+    <div class="panel-card">
+      <h2>Farbkreis</h2>
+      <div class="wheel-grid">
+        <canvas id="colorWheel" width="320" height="320"></canvas>
+        <div class="wheel-info">
+          <div class="swatch-large" id="wheelSwatch"></div>
+          <div class="lt-output" id="wheelOutput"></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="panel-card">
+      <h2>RGB- &amp; HEX-Picker</h2>
+      <div class="picker-grid">
+        <div class="picker-controls">
+          <label>R <input type="range" id="pickR" min="0" max="255" value="10"></label>
+          <label>G <input type="range" id="pickG" min="0" max="255" value="132"></label>
+          <label>B <input type="range" id="pickB" min="0" max="255" value="255"></label>
+          <label>HEX <input type="text" id="pickHex" maxlength="7" value="#0A84FF"></label>
+          <label>Nativ <input type="color" id="pickNative" value="#0A84FF"></label>
+        </div>
+        <div class="lt-preview">
+          <div class="swatch-large" id="pickSwatch"></div>
+          <div class="lt-output" id="pickOutput"></div>
+          <button class="btn-secondary" id="btnCopyPick">📋 Kopieren</button>
+        </div>
+      </div>
+    </div>
+
+    <div class="panel-card">
+      <h2>Verlaufsgenerator</h2>
+      <div class="gradient-controls">
+        <input type="color" id="gradFrom" value="#ff2d55">
+        <input type="color" id="gradTo" value="#5e5ce6">
+        <label>Schritte <input type="number" id="gradSteps" min="2" max="20" value="8"></label>
+        <button class="btn-secondary" id="btnGenGradient">Verlauf erzeugen</button>
+      </div>
+      <div class="gradient-output" id="gradientOutput"></div>
+    </div>
+
+    <div class="panel-card">
+      <h2>Zufällige Farbkombination</h2>
+      <button class="btn-primary" id="btnRandomCombo">🎲 Neue Kombination erzeugen</button>
+      <div class="random-output" id="randomOutput"></div>
+    </div>
+
+    <div class="panel-card">
+      <h2>Farbhistorie</h2>
+      <div class="color-grid" id="historyGrid"></div>
+      <p class="empty-hint" id="historyEmptyHint">Noch keine Farben angesehen.</p>
+    </div>
+
+  </section>
+
+</main>
+
+<!-- Toast-Benachrichtigung -->
+<div class="toast" id="toast"></div>
+
+<script src="script.js"></script>
+</body>
+</html>
